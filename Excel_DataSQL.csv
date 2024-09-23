@@ -1,0 +1,999 @@
+Emp Id,Full Name,Job Title,Department,Business Unit,Gender,Ethnicity,Age,Hire Date,Annual Salary
+1,Eliana Turner,Account Representative,Sales,Research & Development,Female,Black,65,29-09-2000,67837
+2,Xavier Zheng,Account Representative,Sales,Manufacturing,Male,Asian,31,22-07-2017,67837
+3,Allison Ayala,Analyst,Finance,Corporate,Female,Latino,36,30-06-2009,67837
+4,Ezra Singh,Analyst,Finance,Manufacturing,Male,Asian,56,10-05-2006,67837
+5,Charlotte Baker,Analyst II,Sales,Manufacturing,Female,Caucasian,29,17-11-2016,67837
+6,Dominic Thomas,Analyst II,Marketing,Manufacturing,Male,Caucasian,48,28-09-2005,67837
+7,Emery Ford,Analyst II,Marketing,Corporate,Female,Caucasian,39,18-04-2017,67837
+8,Emilia Chu,Analyst II,Finance,Manufacturing,Female,Asian,48,24-06-2003,67837
+9,Maverick Li,Analyst II,Sales,Research & Development,Male,Asian,34,10-03-2018,67837
+10,Henry Jung,Automation Engineer,Engineering,Manufacturing,Male,Asian,57,26-02-2018,67837
+11,Cameron Powell,Business Partner,Human Resources,Manufacturing,Male,Black,41,20-08-2004,67837
+12,Liliana Soto,Business Partner,Human Resources,Manufacturing,Female,Latino,58,12-10-2010,67837
+13,Nathan Lau,Business Partner,Human Resources,Research & Development,Male,Asian,35,22-02-2011,67837
+14,Aiden Le,Cloud Infrastructure Architect,IT,Corporate,Male,Asian,55,24-12-1994,67837
+15,John Delgado,Cloud Infrastructure Architect,IT,Corporate,Male,Latino,30,11-02-2017,67837
+16,Cora Evans,Computer Systems Manager,IT,Speciality Products,Female,Black,45,26-03-2018,67837
+17,Ian Miller,Computer Systems Manager,IT,Corporate,Male,Black,31,13-10-2016,67837
+18,Wyatt Rojas,Computer Systems Manager,IT,Corporate,Male,Latino,32,20-03-2013,67837
+19,Aurora Simmons,Development Engineer,Engineering,Corporate,Female,Caucasian,51,22-12-1995,67837
+20,Mateo Mendez,Development Engineer,Engineering,Research & Development,Male,Latino,47,14-07-1998,67837
+21,Melody Cooper,Development Engineer,Engineering,Research & Development,Female,Caucasian,44,04-09-2009,67837
+22,Daniel Richardson,Director,Engineering,Speciality Products,Male,Caucasian,30,20-05-2018,67837
+23,Eloise Griffin,Director,Sales,Manufacturing,Female,Caucasian,55,29-10-1995,67837
+24,Everleigh Espinoza,Director,Human Resources,Manufacturing,Female,Latino,54,22-01-2018,67837
+25,Hadley Contreras,Director,Engineering,Corporate,Female,Latino,60,04-01-2017,67837
+26,Lillian Romero,Director,Engineering,Corporate,Female,Latino,27,07-12-2018,67837
+27,Natalie Carter,Director,Finance,Corporate,Female,Caucasian,64,21-12-2012,67837
+28,Skylar Evans,Director,Accounting,Research & Development,Female,Caucasian,42,04-06-2009,67837
+29,Cooper Yoon,Engineering Manager,Engineering,Research & Development,Male,Asian,60,15-02-2018,67837
+30,Kai Chow,Engineering Manager,Engineering,Corporate,Male,Asian,45,12-04-2001,67837
+31,Skylar Carrillo,Engineering Manager,Engineering,Corporate,Female,Latino,44,18-12-2008,67837
+32,Eliza Chen,Enterprise Architect,IT,Research & Development,Female,Asian,36,29-04-2016,67837
+33,Mateo Williams,Enterprise Architect,IT,Manufacturing,Male,Caucasian,40,22-01-2011,67837
+34,Nicholas Avila,Enterprise Architect,IT,Research & Development,Male,Latino,28,28-09-2017,67837
+35,Nora Brown,Enterprise Architect,IT,Manufacturing,Female,Caucasian,32,11-02-2014,67837
+36,Ivy Soto,Field Engineer,Engineering,Research & Development,Female,Latino,50,23-10-1997,67837
+37,Jaxon Powell,Field Engineer,Engineering,Research & Development,Male,Caucasian,59,29-03-1996,67837
+38,Leah Bryant,IT Coordinator,IT,Manufacturing,Female,Caucasian,55,30-04-2004,67837
+39,Brooklyn Salazar,IT Systems Architect,IT,Manufacturing,Female,Latino,44,01-03-2011,67837
+40,Layla Collins,IT Systems Architect,IT,Speciality Products,Female,Caucasian,26,11-03-2021,67837
+41,Easton Bailey,Manager,Accounting,Manufacturing,Male,Caucasian,29,25-01-2019,67837
+42,Eli Jones,Manager,Human Resources,Manufacturing,Male,Caucasian,59,14-03-1999,67837
+43,Josiah Lewis,Manager,IT,Research & Development,Male,Caucasian,46,11-08-2021,67837
+44,Kennedy Foster,Manager,Marketing,Speciality Products,Female,Caucasian,53,23-11-2013,67837
+45,Leah Patterson,Manager,Human Resources,Research & Development,Female,Caucasian,33,11-06-2012,67837
+46,Naomi Washington,Manager,IT,Speciality Products,Female,Caucasian,51,13-03-2020,67837
+47,Natalia Owens,Manager,Human Resources,Manufacturing,Female,Caucasian,31,18-01-2021,67837
+48,Nathan Mendez,Manager,IT,Speciality Products,Male,Latino,53,31-10-2006,67837
+49,Willow Chen,Manager,Accounting,Corporate,Female,Asian,50,03-09-2012,67837
+50,Connor Bell,Network Administrator,IT,Corporate,Male,Black,54,01-04-2000,67837
+51,Ezra Simmons,Network Administrator,IT,Manufacturing,Male,Black,31,07-05-2016,67837
+52,Isaac Mitchell,Network Architect,IT,Speciality Products,Male,Black,46,10-06-2005,67837
+53,William Phillips,Network Architect,IT,Corporate,Male,Black,61,27-01-2004,67837
+54,Daniel Dixon,Operations Engineer,Engineering,Speciality Products,Male,Caucasian,51,09-10-1999,67837
+55,Lincoln Ramos,Operations Engineer,Engineering,Corporate,Male,Latino,59,10-09-2008,67837
+56,Natalia Diaz,Operations Engineer,Engineering,Corporate,Female,Latino,62,12-10-2006,67837
+57,Isla Yoon,Quality Engineer,Engineering,Research & Development,Female,Asian,50,10-05-2013,67837
+58,Parker James,Quality Engineer,Engineering,Speciality Products,Male,Black,45,05-02-2005,67837
+59,Nevaeh James,Solutions Architect,IT,Speciality Products,Female,Caucasian,45,03-11-2017,67837
+60,Emma Brooks,Sr. Account Representative,Sales,Research & Development,Female,Caucasian,30,18-12-2016,67837
+61,Allison Leung,Sr. Analyst,Sales,Research & Development,Female,Asian,62,18-05-2020,67837
+62,David Owens,Sr. Analyst,Sales,Corporate,Male,Black,43,16-04-2004,67837
+63,Hannah Nelson,Sr. Analyst,Marketing,Speciality Products,Female,Caucasian,35,07-09-2019,67837
+64,Hudson Hill,Sr. Analyst,Sales,Research & Development,Male,Caucasian,30,04-11-2019,67837
+65,Robert Yang,Sr. Analyst,Accounting,Speciality Products,Male,Asian,31,04-11-2017,67837
+66,Violet Garcia,Sr. Analyst,Marketing,Speciality Products,Female,Latino,35,10-01-2017,67837
+67,Brooklyn Collins,Sr. Manger,Finance,Corporate,Female,Black,59,27-10-2018,67837
+68,Caroline Phan,Sr. Manger,Finance,Corporate,Female,Asian,41,14-03-2004,67837
+69,Everly Walker,Sr. Manger,Sales,Research & Development,Female,Caucasian,62,02-08-1999,67837
+70,Grace Carter,Sr. Manger,Human Resources,Speciality Products,Female,Black,25,17-03-2021,67837
+71,Hazel Young,Sr. Manger,Sales,Speciality Products,Female,Black,30,13-08-2017,67837
+72,Lincoln Huynh,Sr. Manger,Finance,Manufacturing,Male,Asian,63,08-02-2002,67837
+73,Lyla Stewart,Sr. Manger,IT,Speciality Products,Female,Caucasian,43,27-03-2015,67837
+74,Mason Jimenez,Sr. Manger,Finance,Speciality Products,Male,Latino,44,08-08-2019,67837
+75,Mia Lam,Sr. Manger,IT,Manufacturing,Female,Asian,49,18-04-2006,67837
+76,Roman Munoz,Sr. Manger,Sales,Speciality Products,Male,Latino,54,20-10-2011,67837
+77,Sebastian Fong,Sr. Manger,IT,Manufacturing,Male,Asian,46,16-12-2017,67837
+78,Sofia Vu,Sr. Manger,Human Resources,Research & Development,Female,Asian,52,05-09-2017,67837
+81,Robert Vazquez,System Administrator ,IT,Corporate,Male,Latino,40,26-09-2021,67837
+82,Charles Henderson,Systems Analyst,IT,Speciality Products,Male,Caucasian,48,11-02-2002,67837
+83,Paisley Trinh,Technical Architect,IT,Corporate,Female,Asian,57,04-05-1992,67837
+84,Benjamin Delgado,Test Engineer,Engineering,Corporate,Male,Latino,64,28-09-1992,67837
+85,Austin Rojas,Vice President,Finance,Corporate,Male,Latino,29,05-12-2018,67837
+86,Camila Watson,Vice President,Finance,Speciality Products,Female,Caucasian,32,02-01-2018,67837
+87,Cora Jiang,Vice President,IT,Corporate,Female,Asian,53,30-04-2008,67837
+88,David Desai,Vice President,Sales,Speciality Products,Male,Asian,47,22-11-2016,67837
+89,Emilia Bailey,Vice President,Accounting,Speciality Products,Female,Caucasian,41,09-08-2012,67837
+90,Grayson Chin,Vice President,IT,Research & Development,Male,Asian,26,09-05-2020,67837
+91,Hadley Dang,Vice President,Accounting,Corporate,Female,Asian,47,26-12-2021,67837
+92,Hannah Mejia,Vice President,Marketing,Corporate,Female,Latino,47,13-03-1999,67837
+93,Henry Zhu,Vice President,Marketing,Speciality Products,Male,Asian,38,25-08-2021,67837
+94,Hudson Williams,Vice President,Sales,Speciality Products,Male,Black,36,19-03-2018,67837
+95,Isla Wong,Vice President,Accounting,Corporate,Female,Asian,56,16-03-2014,67837
+96,Jaxson Mai,Vice President,Human Resources,Research & Development,Male,Asian,48,08-03-2014,67837
+97,Lyla Yoon,Vice President,Accounting,Manufacturing,Female,Asian,38,13-12-2012,67837
+98,Nevaeh Jones,Vice President,Sales,Manufacturing,Female,Caucasian,31,20-08-2020,67837
+99,Samantha Foster,Vice President,Human Resources,Research & Development,Female,Black,34,27-07-2019,67837
+100,Ayla Ng,Account Representative,Sales,Manufacturing,Female,Asian,46,20-03-2004,67837
+101,Elena Vang,Analyst,Finance,Corporate,Female,Asian,52,19-02-2019,67837
+102,Elizabeth Huang,Analyst,Finance,Speciality Products,Female,Asian,62,20-09-2002,67837
+103,Evelyn Jung,Analyst,Sales,Research & Development,Female,Asian,30,14-02-2021,67837
+104,Maria Chin,Analyst,Marketing,Manufacturing,Female,Asian,65,26-09-2013,67837
+105,Sebastian Le,Analyst,Finance,Corporate,Male,Asian,37,09-11-2015,67837
+106,Alice Mehta,Analyst II,Sales,Research & Development,Female,Asian,45,02-04-2019,67837
+107,Daniel Shah,Analyst II,Sales,Research & Development,Male,Asian,41,04-06-2010,67837
+108,Mason Cao,Analyst II,Finance,Corporate,Male,Asian,52,14-09-2017,67837
+109,Quinn Trinh,Analyst II,Sales,Corporate,Female,Asian,42,09-05-2010,67837
+110,Zoe Do,Analyst II,Sales,Speciality Products,Female,Asian,60,08-01-2014,67837
+111,Maya Chan,Controls Engineer,Engineering,Speciality Products,Female,Asian,37,13-02-2013,67837
+112,Theodore Ngo,Controls Engineer,Engineering,Research & Development,Male,Asian,55,29-04-2018,67837
+113,Greyson Dang,Development Engineer,Engineering,Manufacturing,Male,Asian,60,11-05-2009,67837
+114,Adam He,Director,Accounting,Speciality Products,Male,Asian,35,16-08-2017,67837
+115,Eli Gupta,Director,Human Resources,Research & Development,Male,Asian,37,19-05-2012,67837
+116,Jack Cheng,Director,Human Resources,Manufacturing,Male,Asian,42,16-01-2014,67837
+117,Leilani Chow,Director,Human Resources,Corporate,Female,Asian,27,23-02-2021,67837
+118,Luke Zheng,Director,Human Resources,Speciality Products,Male,Asian,39,28-11-2006,67837
+119,Madison Li,Director,Marketing,Manufacturing,Female,Asian,35,06-03-2017,67837
+120,Raelynn Hong,Director,Marketing,Speciality Products,Female,Asian,28,11-12-2019,67837
+121,Savannah He,Director,IT,Research & Development,Female,Asian,52,14-02-1996,67837
+122,Carson Lu,Engineering Manager,Engineering,Speciality Products,Male,Asian,64,04-12-1996,67837
+123,Mia Wu,Enterprise Architect,IT,Corporate,Female,Asian,45,25-08-2013,67837
+124,Emery Zhang,Field Engineer,Engineering,Corporate,Female,Asian,45,28-02-2012,67837
+125,Luke Mai,HRIS Analyst,Human Resources,Research & Development,Male,Asian,41,24-10-2007,67837
+126,Angel Do,IT Systems Architect,IT,Speciality Products,Male,Asian,34,20-09-2019,67837
+127,Maria He,IT Systems Architect,IT,Corporate,Female,Asian,45,28-08-2010,67837
+128,Austin Vang,Manager,Marketing,Speciality Products,Male,Asian,49,20-05-2018,67837
+129,Christian Fong,Manager,Sales,Research & Development,Male,Asian,49,10-08-2012,67837
+130,Grayson Yee,Manager,Human Resources,Corporate,Male,Asian,48,16-07-2015,67837
+131,James Huang,Manager,Human Resources,Speciality Products,Male,Asian,54,11-03-1997,67837
+132,Zoe Zhou,Manager,Finance,Corporate,Female,Asian,61,06-10-2009,67837
+133,Matthew Gupta,Network Engineer,IT,Speciality Products,Male,Asian,45,18-09-2005,67837
+134,Anna Zhu,Service Desk Analyst,IT,Manufacturing,Female,Asian,48,22-08-2003,67837
+135,Elias Zhang,Solutions Architect,IT,Research & Development,Male,Asian,54,13-07-2013,67837
+136,Audrey Hwang,Sr. Analyst,Accounting,Speciality Products,Female,Asian,45,17-06-2020,67837
+137,Genesis Hu,Sr. Analyst,Marketing,Corporate,Female,Asian,46,15-01-2002,67837
+138,Jaxon Fong,Sr. Analyst,Sales,Speciality Products,Male,Asian,59,13-03-1997,67837
+139,Mila Leung,Sr. Analyst,Marketing,Corporate,Female,Asian,39,05-11-2007,67837
+140,Thomas Chang,Sr. Analyst,Accounting,Research & Development,Male,Asian,34,26-07-2011,67837
+141,William Cao,Sr. Analyst,Marketing,Manufacturing,Male,Asian,63,12-02-2017,67837
+142,Eliza Liang,Sr. Manger,Human Resources,Speciality Products,Female,Asian,36,11-03-2010,67837
+143,Everly Chow,Sr. Manger,Finance,Speciality Products,Female,Asian,33,21-04-2018,67837
+144,Hailey Lai,Sr. Manger,Finance,Manufacturing,Female,Asian,42,18-03-2011,67837
+145,Noah Chen,Sr. Manger,Marketing,Manufacturing,Male,Asian,63,01-03-2015,67837
+146,Peyton Huang,Sr. Manger,IT,Manufacturing,Female,Asian,25,02-07-2021,67837
+147,Axel Chu,Systems Analyst,IT,Research & Development,Male,Asian,43,04-05-2018,67837
+148,Miles Cho,Systems Analyst,IT,Speciality Products,Male,Asian,47,10-03-1999,67837
+149,Joshua Lin,Technical Architect,IT,Research & Development,Male,Asian,37,05-02-2016,67837
+150,Penelope Choi,Technical Architect,IT,Speciality Products,Female,Asian,49,10-09-2010,67837
+151,Dylan Choi,Vice President,IT,Corporate,Male,Asian,63,11-05-2012,67837
+152,Joshua Fong,Vice President,Engineering,Speciality Products,Male,Asian,47,11-06-2012,67837
+153,Paisley Kang,Vice President,Human Resources,Corporate,Female,Asian,61,10-03-2017,67837
+154,Rylee Yu,Vice President,Finance,Speciality Products,Female,Asian,54,10-07-2011,67837
+155,Lillian Khan,Analyst,Finance,Speciality Products,Female,Asian,44,31-05-2010,67837
+156,Lillian Park,Analyst,Marketing,Research & Development,Female,Asian,40,24-02-2021,67837
+157,Jack Vu,Analyst II,Accounting,Research & Development,Male,Asian,43,10-02-2014,67837
+158,Miles Hsu,Analyst II,Finance,Research & Development,Male,Asian,55,16-03-2014,67837
+159,Nicholas Song,Analyst II,Marketing,Manufacturing,Male,Asian,52,23-05-1999,67837
+160,Nevaeh Kang,Automation Engineer,Engineering,Research & Development,Female,Asian,46,10-01-2021,67837
+161,Emery Chang,Business Partner,Human Resources,Research & Development,Female,Asian,45,17-08-2000,67837
+162,Willow Mai,Business Partner,Human Resources,Manufacturing,Female,Asian,45,17-12-2003,67837
+163,Connor Luu,Computer Systems Manager,IT,Speciality Products,Male,Asian,35,03-05-2016,67837
+164,Adeline Huang,Controls Engineer,Engineering,Manufacturing,Female,Asian,34,16-12-2019,67837
+165,Amelia Bui,Director,Engineering,Speciality Products,Female,Asian,46,21-10-2020,67837
+166,Cora Zheng,Director,IT,Manufacturing,Female,Asian,27,03-01-2018,67837
+167,Elias Dang,Director,Engineering,Speciality Products,Male,Asian,64,29-08-1995,67837
+168,Henry Shah,Director,Accounting,Manufacturing,Male,Asian,55,11-06-2010,67837
+169,John Cho,Director,Human Resources,Speciality Products,Male,Asian,47,03-11-2019,67837
+170,Madison Kumar,Director,Accounting,Speciality Products,Female,Asian,55,17-10-2010,67837
+171,Maria Sun,Director,Sales,Corporate,Female,Asian,25,19-12-2021,67837
+172,Skylar Liu,Director,IT,Research & Development,Female,Asian,29,09-08-2020,67837
+173,Grayson Chan,Engineering Manager,Engineering,Speciality Products,Male,Asian,46,20-10-2011,67837
+174,Mateo Chu,Field Engineer,Engineering,Speciality Products,Male,Asian,27,16-04-2020,67837
+175,Adam Kaur,Manager,IT,Corporate,Male,Asian,60,29-01-2000,67837
+176,Hannah Hoang,Manager,Accounting,Speciality Products,Female,Asian,25,15-12-2021,67837
+177,Liam Jung,Manager,Finance,Corporate,Male,Asian,39,14-01-2010,67837
+178,Luca Duong,Manager,Human Resources,Research & Development,Male,Asian,48,30-06-2004,67837
+179,Ariana Kim,Network Architect,IT,Manufacturing,Female,Asian,33,29-06-2014,67837
+180,Jaxon Park,Network Architect,IT,Manufacturing,Male,Asian,33,24-07-2020,67837
+181,Charlotte Chu,Network Engineer,IT,Manufacturing,Female,Asian,50,23-01-2001,67837
+182,Abigail Vang,Operations Engineer,Engineering,Research & Development,Female,Asian,40,09-09-2016,67837
+183,Eli Rahman,Service Desk Analyst,IT,Manufacturing,Male,Asian,45,16-03-2010,67837
+184,Jace Zhang,Service Desk Analyst,IT,Speciality Products,Male,Asian,31,14-02-2017,67837
+185,Liliana Do,Service Desk Analyst,IT,Manufacturing,Female,Asian,30,29-03-2019,67837
+186,Lucy Fong,Sr. Account Representative,Sales,Corporate,Female,Asian,40,20-01-2011,67837
+187,Eli Han,Sr. Analyst,Accounting,Manufacturing,Male,Asian,40,15-01-2016,67837
+188,Ian Wu,Sr. Analyst,Marketing,Manufacturing,Male,Asian,51,14-04-2012,67837
+189,Jack Mai,Sr. Analyst,Marketing,Corporate,Male,Asian,45,22-09-2007,67837
+190,Leilani Sharma,Sr. Analyst,Accounting,Manufacturing,Female,Asian,43,23-01-2014,67837
+191,Leilani Yee,Sr. Analyst,Marketing,Speciality Products,Female,Asian,47,12-07-2017,67837
+192,Lily Nguyen,Sr. Analyst,Finance,Speciality Products,Female,Asian,33,28-01-2012,67837
+193,Owen Lam,Sr. Business Partner,Human Resources,Speciality Products,Male,Asian,30,29-05-2017,67837
+194,John Chow,Sr. Manger,Marketing,Research & Development,Male,Asian,45,11-03-2021,67837
+195,Sadie Lee,Sr. Manger,Marketing,Corporate,Female,Asian,65,24-10-2000,67837
+196,Madeline Hoang,Systems Analyst,IT,Research & Development,Female,Asian,28,25-10-2019,67837
+197,Brooklyn Cho,Technical Architect,IT,Manufacturing,Female,Asian,45,08-07-2002,67837
+198,Alice Xiong,Vice President,Engineering,Manufacturing,Female,Asian,55,02-09-2018,67837
+199,Hailey Lai,Vice President,Human Resources,Manufacturing,Female,Asian,52,23-07-2012,67837
+200,Xavier Park,Vice President,IT,Research & Development,Male,Asian,40,08-11-2020,67837
+201,Eliza Adams,Account Representative,Sales,Manufacturing,Female,Caucasian,26,21-11-2021,67837
+202,Hailey Hong,Account Representative,Sales,Research & Development,Female,Asian,33,22-01-2021,67837
+203,Lydia Huynh,Account Representative,Sales,Speciality Products,Female,Asian,45,16-08-2000,67837
+204,Axel Jordan,Analyst,Sales,Corporate,Male,Caucasian,47,28-02-2013,67837
+205,Caroline Jenkins,Analyst,Finance,Research & Development,Female,Caucasian,27,06-05-2018,67837
+206,Everleigh Simmons,Analyst,Finance,Manufacturing,Female,Caucasian,55,16-04-2021,67837
+207,Genesis Banks,Analyst,Finance,Corporate,Female,Caucasian,63,16-03-2012,67837
+208,Everleigh Adams,Analyst II,Marketing,Manufacturing,Female,Caucasian,33,14-03-2020,67837
+209,Ezra Banks,Analyst II,Sales,Research & Development,Male,Caucasian,37,23-04-2010,67837
+210,Alice Young,Automation Engineer,Engineering,Research & Development,Female,Caucasian,46,24-01-2008,67837
+211,Stella Alexander,Automation Engineer,Engineering,Corporate,Female,Caucasian,52,10-12-2005,67837
+212,Lincoln Henderson,Business Partner,Human Resources,Speciality Products,Male,Caucasian,28,27-06-2021,67837
+213,Greyson Sanders,Cloud Infrastructure Architect,IT,Speciality Products,Male,Black,28,06-03-2019,67837
+214,Paisley Bryant,Cloud Infrastructure Architect,IT,Manufacturing,Female,Black,37,27-04-2016,67837
+215,Sofia Parker,Cloud Infrastructure Architect,IT,Manufacturing,Female,Caucasian,36,30-05-2014,67837
+216,Maverick Henry,Computer Systems Manager,IT,Research & Development,Male,Caucasian,26,10-07-2019,67837
+217,Penelope Jordan,Computer Systems Manager,IT,Manufacturing,Female,Caucasian,26,27-09-2019,67837
+218,Hailey Foster,Controls Engineer,Engineering,Manufacturing,Female,Black,55,21-03-2021,67837
+219,Peyton Owens,Controls Engineer,Engineering,Speciality Products,Female,Caucasian,48,25-09-2014,67837
+220,Anna Han,Development Engineer,Engineering,Manufacturing,Female,Asian,29,09-11-2019,67837
+221,Adam Nelson,Director,Finance,Speciality Products,Male,Caucasian,25,14-01-2020,67837
+222,Audrey Richardson,Director,IT,Manufacturing,Female,Caucasian,46,06-10-2018,67837
+223,Connor Joseph,Director,Human Resources,Corporate,Male,Caucasian,50,22-07-1998,67837
+224,Jacob Davis,Director,Accounting,Research & Development,Male,Caucasian,36,03-09-2016,67837
+225,Liam Zhang,Director,Marketing,Research & Development,Male,Asian,29,15-09-2021,67837
+226,Lincoln Hall,Director,Accounting,Speciality Products,Male,Caucasian,26,28-07-2020,67837
+227,Luna Sanders,Director,Finance,Speciality Products,Female,Caucasian,50,26-10-2006,67837
+228,Christopher Vega,Engineering Manager,Engineering,Research & Development,Male,Latino,54,27-10-2007,67837
+229,Eliana Grant,Engineering Manager,Engineering,Speciality Products,Female,Caucasian,64,20-06-1994,67837
+230,Paisley Hunter,Engineering Manager,Engineering,Research & Development,Female,Caucasian,61,15-01-2010,67837
+231,Wesley Dominguez,Engineering Manager,Engineering,Corporate,Male,Latino,45,27-04-2018,67837
+232,Avery Grant,Enterprise Architect,IT,Research & Development,Female,Caucasian,49,05-03-2014,67837
+233,Eleanor Williams,Enterprise Architect,IT,Speciality Products,Female,Caucasian,61,09-02-2005,67837
+234,Piper Lewis,Field Engineer,Engineering,Research & Development,Female,Caucasian,33,22-12-2018,67837
+235,Austin Edwards,IT Coordinator,IT,Manufacturing,Male,Black,42,24-09-2006,67837
+236,Maverick Figueroa,IT Systems Architect,IT,Corporate,Male,Latino,48,06-07-2008,67837
+237,Serenity Bailey,IT Systems Architect,IT,Manufacturing,Female,Caucasian,55,21-11-2011,67837
+238,Alexander Choi,Manager,Marketing,Research & Development,Male,Asian,55,18-09-1994,67837
+239,Charlotte Chang,Manager,Sales,Research & Development,Female,Asian,50,07-05-2000,67837
+240,Genesis Hunter,Manager,Finance,Corporate,Female,Caucasian,48,22-04-1999,67837
+241,Hannah King,Manager,Accounting,Speciality Products,Female,Caucasian,31,07-10-2014,67837
+242,Isaac Yoon,Manager,Human Resources,Corporate,Male,Asian,41,06-02-2019,67837
+243,Leonardo Martin,Manager,Finance,Speciality Products,Male,Black,51,16-02-1995,67837
+244,Lucas Daniels,Manager,Sales,Corporate,Male,Black,42,29-05-2011,67837
+245,Wesley King,Manager,Accounting,Manufacturing,Male,Caucasian,57,19-01-2019,67837
+246,Angel Lin,Network Administrator,IT,Manufacturing,Male,Asian,27,24-12-2020,67837
+247,Benjamin Ramirez,Network Engineer,IT,Research & Development,Male,Latino,48,27-07-2005,67837
+248,Andrew Moore,Operations Engineer,Engineering,Manufacturing,Male,Caucasian,47,02-01-2001,67837
+249,Sofia Dinh,Operations Engineer,Engineering,Corporate,Female,Asian,55,04-08-1995,67837
+250,Gianna Williams,Quality Engineer,Engineering,Research & Development,Female,Black,27,28-01-2021,67837
+251,Piper Patterson,Quality Engineer,Engineering,Corporate,Female,Caucasian,45,19-06-2019,67837
+252,Santiago f Gray,Quality Engineer,Engineering,Corporate,Male,Caucasian,27,11-09-2018,67837
+253,Vivian Thao,Quality Engineer,Engineering,Research & Development,Female,Asian,45,23-04-2015,67837
+254,Everett Khan,Solutions Architect,IT,Manufacturing,Male,Asian,43,18-01-2017,67837
+255,Grayson Turner,Solutions Architect,IT,Corporate,Male,Caucasian,54,30-06-1992,67837
+256,Silas Hunter,Solutions Architect,IT,Corporate,Male,Black,55,04-05-1998,67837
+257,Violet Hall,Solutions Architect,IT,Corporate,Female,Caucasian,40,10-12-2010,67837
+258,Caleb Xiong,Sr. Account Representative,Sales,Corporate,Male,Asian,38,28-11-2011,67837
+259,Bella Lopez,Sr. Analyst,Marketing,Corporate,Female,Latino,32,12-11-2013,67837
+260,Dominic Baker,Sr. Analyst,Accounting,Manufacturing,Male,Black,51,09-10-2020,67837
+261,Ethan Tang,Sr. Analyst,Accounting,Speciality Products,Male,Asian,54,04-05-2016,67837
+262,Levi Brown,Sr. Analyst,Sales,Corporate,Male,Black,36,26-12-2021,67837
+263,Luna Simmons,Sr. Analyst,Finance,Corporate,Female,Caucasian,28,04-09-2020,67837
+264,Madeline Walker,Sr. Analyst,Finance,Speciality Products,Female,Caucasian,34,13-06-2018,67837
+265,Nova Hill,Sr. Analyst,Accounting,Manufacturing,Female,Caucasian,56,10-03-2018,67837
+266,Penelope Johnson,Sr. Analyst,Marketing,Research & Development,Female,Caucasian,34,25-06-2012,67837
+267,Lyla Chen,Sr. Business Partner,Human Resources,Research & Development,Female,Asian,45,26-04-2019,67837
+268,Riley Ramirez,Sr. Business Partner,Human Resources,Research & Development,Female,Latino,52,13-09-1999,67837
+269,Dominic Dinh,Sr. Manger,Marketing,Speciality Products,Male,Asian,45,11-04-2005,67837
+270,Eleanor Li,Sr. Manger,Human Resources,Research & Development,Female,Asian,64,07-12-2003,67837
+271,Eva Jenkins,Sr. Manger,Human Resources,Manufacturing,Female,Black,55,10-11-2004,67837
+272,Madeline Coleman,Sr. Manger,Finance,Research & Development,Female,Caucasian,51,28-04-2006,67837
+273,Mason Watson,Sr. Manger,IT,Corporate,Male,Caucasian,46,14-09-2004,67837
+274,Melody Chin,Sr. Manger,Finance,Corporate,Female,Asian,43,15-10-2006,67837
+275,Riley Marquez,Sr. Manger,Finance,Research & Development,Female,Latino,39,18-10-2019,67837
+276,Santiago f Moua,Sr. Manger,Human Resources,Corporate,Male,Asian,45,07-05-2010,67837
+277,Lydia Williams,System Administrator ,IT,Manufacturing,Female,Black,35,29-10-2014,67837
+278,Hadley Ford,Systems Analyst,IT,Research & Development,Female,Caucasian,52,23-02-2005,67837
+279,Isla Han,Technical Architect,IT,Manufacturing,Female,Asian,58,18-06-2005,67837
+280,Robert Wright,Technical Architect,IT,Manufacturing,Male,Caucasian,30,14-06-2015,67837
+281,Autumn Leung,Vice President,Finance,Research & Development,Female,Asian,25,15-11-2021,67837
+282,Brooks Marquez,Vice President,Sales,Corporate,Male,Latino,61,24-09-2019,67837
+283,Caroline Nelson,Vice President,Finance,Corporate,Female,Caucasian,36,11-01-2014,67837
+284,Elena Patterson,Vice President,Finance,Speciality Products,Female,Black,38,09-11-2018,67837
+285,Elias Ahmed,Vice President,Marketing,Corporate,Male,Asian,57,04-08-2017,67837
+286,Ella Huang,Vice President,Marketing,Corporate,Female,Asian,45,28-02-2016,67837
+287,Everly Lai,Vice President,Marketing,Speciality Products,Female,Asian,52,01-04-1998,67837
+288,Grayson Brown,Vice President,IT,Corporate,Male,Caucasian,38,22-06-2016,67837
+289,Kinsley Acosta,Vice President,IT,Speciality Products,Female,Latino,32,22-07-2020,67837
+290,Mason Cho,Vice President,Accounting,Research & Development,Male,Asian,59,18-05-2011,67837
+291,Silas Rivera,Vice President,Sales,Corporate,Male,Latino,48,28-02-2000,67837
+292,Wyatt Li,Vice President,Engineering,Manufacturing,Male,Asian,63,03-06-2013,67837
+293,Elena Her,Account Representative,Sales,Manufacturing,Female,Asian,62,17-09-2006,67837
+294,Hailey Yee,Account Representative,Sales,Research & Development,Female,Asian,54,16-03-2021,67837
+295,Jade Yi,Account Representative,Sales,Speciality Products,Female,Asian,47,10-07-2015,67837
+296,Joshua Gupta,Account Representative,Sales,Corporate,Male,Asian,57,24-01-2017,67837
+297,Mateo Vu,Account Representative,Sales,Speciality Products,Male,Asian,30,29-09-2016,67837
+298,Emma Cao,Analyst,Accounting,Corporate,Female,Asian,27,24-08-2019,67837
+299,Owen Han,Analyst,Accounting,Corporate,Male,Asian,28,12-05-2017,67837
+300,Rylee Bui,Analyst,Accounting,Corporate,Female,Asian,55,22-12-2011,67837
+301,Christian Ali,Analyst II,Marketing,Research & Development,Male,Asian,65,17-10-2001,67837
+302,Cooper Jiang,Analyst II,Accounting,Corporate,Male,Asian,49,25-07-2019,67837
+303,Lincoln Fong,Analyst II,Sales,Speciality Products,Male,Asian,31,17-02-2020,67837
+304,Cooper Gupta,Business Partner,Human Resources,Speciality Products,Male,Asian,58,20-06-2014,67837
+305,Everly Lin,Business Partner,Human Resources,Manufacturing,Female,Asian,25,15-03-2021,67837
+306,Adeline Yang,Cloud Infrastructure Architect,IT,Corporate,Female,Asian,53,20-07-2011,67837
+307,Benjamin Moua,Computer Systems Manager,IT,Manufacturing,Male,Asian,40,02-07-2007,67837
+308,Eliza Zheng,Computer Systems Manager,IT,Speciality Products,Female,Asian,48,20-04-2014,67837
+309,Gabriella Zhu,Computer Systems Manager,IT,Speciality Products,Female,Asian,36,29-11-2014,67837
+310,Audrey Lee,Development Engineer,Engineering,Speciality Products,Female,Asian,51,11-02-2017,67837
+311,Rylee Dinh,Development Engineer,Engineering,Speciality Products,Female,Asian,35,10-02-2017,67837
+312,Adam Dang,Director,Sales,Research & Development,Male,Asian,45,09-07-2002,67837
+313,Carson Chau,Director,Finance,Corporate,Male,Asian,58,12-10-2007,67837
+314,James Singh,Director,Marketing,Corporate,Male,Asian,45,12-03-2008,67837
+315,John Dang,Director,Sales,Corporate,Male,Asian,58,19-03-1992,67837
+316,Kennedy Zhang,Director,Finance,Research & Development,Female,Asian,63,27-10-2000,67837
+317,Leah Khan,Director,Marketing,Corporate,Female,Asian,36,13-09-2010,67837
+318,Luca Truong,Director,Marketing,Corporate,Male,Asian,45,11-12-2004,67837
+319,Lucas Phan,Director,Marketing,Research & Development,Male,Asian,49,19-02-1999,67837
+320,Naomi Xi,Director,Finance,Corporate,Female,Asian,53,17-02-2002,67837
+321,Penelope Fong,Director,Accounting,Corporate,Female,Asian,60,14-05-2004,67837
+322,Raelynn Lu,Director,Finance,Research & Development,Female,Asian,27,26-05-2020,67837
+323,Isaac Liu,Field Engineer,Engineering,Manufacturing,Male,Asian,60,13-10-1992,67837
+324,Andrew Ma,HRIS Analyst,Human Resources,Corporate,Male,Asian,31,24-09-2017,67837
+325,Gabriel Zhou,IT Coordinator,IT,Manufacturing,Male,Asian,25,17-01-2021,67837
+326,Colton Thao,Manager,Human Resources,Manufacturing,Male,Asian,55,16-11-1995,67837
+327,Gianna Ha,Manager,IT,Research & Development,Female,Asian,55,08-02-2005,67837
+328,Hailey Song,Manager,Finance,Research & Development,Female,Asian,37,23-08-2016,67837
+329,Hailey Xi,Manager,Accounting,Corporate,Female,Asian,52,19-11-2021,67837
+330,Jack Huynh,Manager,Marketing,Research & Development,Male,Asian,27,25-09-2018,67837
+331,James Bui,Manager,Finance,Manufacturing,Male,Asian,64,20-07-1998,67837
+332,Miles Mehta,Manager,Finance,Manufacturing,Male,Asian,50,19-05-2018,67837
+333,Sofia Trinh,Network Architect,IT,Speciality Products,Female,Asian,45,18-12-2006,67837
+334,Avery Sun,Operations Engineer,Engineering,Manufacturing,Female,Asian,45,11-03-2004,67837
+335,Julian Fong,Quality Engineer,Engineering,Speciality Products,Male,Asian,61,22-11-2002,67837
+336,Leonardo Lo,Quality Engineer,Engineering,Speciality Products,Male,Asian,29,15-11-2021,67837
+337,Ella Nguyen,Service Desk Analyst,IT,Corporate,Female,Asian,60,10-02-2004,67837
+338,Dylan Kumar,Sr. Analyst,Marketing,Speciality Products,Male,Asian,55,11-07-2006,67837
+339,Sebastian Gupta,Sr. Analyst,Marketing,Corporate,Male,Asian,40,22-09-2014,67837
+340,Aubrey Yoon,Sr. Business Partner,Human Resources,Research & Development,Female,Asian,60,11-11-2005,67837
+341,Ellie Chung,Sr. Manger,Marketing,Corporate,Female,Asian,59,29-08-2008,67837
+342,Julia Luong,Sr. Manger,Accounting,Research & Development,Female,Asian,55,20-06-2006,67837
+343,Leo Hsu,Sr. Manger,Human Resources,Manufacturing,Male,Asian,62,22-11-2017,67837
+344,Naomi Chu,Sr. Manger,Sales,Manufacturing,Female,Asian,46,29-02-2004,67837
+345,Raelynn Gupta,Sr. Manger,Finance,Corporate,Female,Asian,48,10-09-2001,67837
+346,Sophie Vang,Sr. Manger,Marketing,Manufacturing,Female,Asian,25,14-09-2021,67837
+347,Lincoln Huynh,System Administrator ,IT,Research & Development,Male,Asian,55,09-11-2016,67837
+348,Gabriel Yu,Technical Architect,IT,Speciality Products,Male,Asian,42,23-06-2014,67837
+349,Mason Zhao,Technical Architect,IT,Research & Development,Male,Asian,46,26-10-2021,67837
+350,Theodore Dinh,Technical Architect,IT,Manufacturing,Male,Asian,59,29-11-1997,67837
+351,Mila Hong,Test Engineer,Engineering,Research & Development,Female,Asian,30,22-05-2017,67837
+352,Dominic Le,Vice President,Marketing,Corporate,Male,Asian,41,04-10-2014,67837
+353,Elena Tan,Vice President,Engineering,Manufacturing,Female,Asian,50,13-10-2008,67837
+354,Joseph Ly,Vice President,Marketing,Speciality Products,Male,Asian,40,28-02-2009,67837
+355,Kennedy Rahman,Vice President,Human Resources,Manufacturing,Female,Asian,49,28-02-2003,67837
+356,Maria Hong,Vice President,Finance,Speciality Products,Female,Asian,43,31-07-2005,67837
+357,Mateo Her,Vice President,Sales,Speciality Products,Male,Asian,44,02-03-2014,67837
+358,Aiden Bryant,Account Representative,Sales,Manufacturing,Male,Black,47,21-10-2002,67837
+359,Emery Do,Account Representative,Sales,Research & Development,Female,Asian,40,16-03-2018,67837
+360,Valentina Moua,Account Representative,Sales,Manufacturing,Female,Asian,37,10-11-2015,67837
+361,Christian Medina,Analyst,Marketing,Corporate,Male,Latino,51,19-06-2007,67837
+362,Ella Hunter,Analyst,Finance,Manufacturing,Female,Caucasian,51,18-01-2017,67837
+363,Jameson Foster,Analyst,Marketing,Manufacturing,Male,Caucasian,28,18-07-2021,67837
+364,Natalia Vu,Analyst,Accounting,Research & Development,Female,Asian,54,29-12-2006,67837
+365,Nathan Lee,Analyst,Accounting,Manufacturing,Male,Asian,29,20-08-2016,67837
+366,Ruby Choi,Analyst,Accounting,Manufacturing,Female,Asian,40,06-12-2018,67837
+367,Sophie Ali,Analyst,Finance,Manufacturing,Female,Asian,55,28-03-2002,67837
+368,Alexander Foster,Analyst II,Marketing,Manufacturing,Male,Black,35,03-07-2020,67837
+369,Athena Carrillo,Analyst II,Finance,Speciality Products,Female,Latino,39,06-04-2006,67837
+370,Connor Walker,Analyst II,Finance,Manufacturing,Male,Caucasian,30,18-03-2019,67837
+371,Jeremiah Castillo,Analyst II,Accounting,Research & Development,Male,Latino,58,12-04-2006,67837
+372,John Contreras,Analyst II,Marketing,Manufacturing,Male,Latino,35,15-05-2011,67837
+373,Logan Mitchell,Analyst II,Marketing,Manufacturing,Male,Caucasian,65,20-08-2005,67837
+374,Melody Ho,Analyst II,Finance,Research & Development,Female,Asian,55,02-12-2007,67837
+375,Nora Nelson,Analyst II,Finance,Manufacturing,Female,Caucasian,41,09-01-2007,67837
+376,Roman King,Analyst II,Finance,Corporate,Male,Caucasian,60,16-08-2007,67837
+377,Caroline Alexander,Business Partner,Human Resources,Manufacturing,Female,Black,42,18-09-2020,67837
+378,Grayson Soto,Business Partner,Human Resources,Manufacturing,Male,Latino,34,03-08-2015,67837
+379,Julia Doan,Business Partner,Human Resources,Speciality Products,Female,Asian,53,07-09-2017,67837
+380,Jade Hunter,Cloud Infrastructure Architect,IT,Corporate,Female,Caucasian,42,05-02-2020,67837
+381,Nova Lin,Cloud Infrastructure Architect,IT,Manufacturing,Female,Asian,33,21-10-2017,67837
+382,William Walker,Computer Systems Manager,IT,Research & Development,Male,Black,40,24-02-2019,67837
+383,Andrew Thomas,Controls Engineer,Engineering,Manufacturing,Male,Caucasian,36,02-12-2016,67837
+384,Ryan Lu,Development Engineer,Engineering,Speciality Products,Male,Asian,25,08-07-2021,67837
+385,Aaron Garza,Director,Sales,Research & Development,Male,Latino,39,27-12-2013,67837
+386,Anthony Carter,Director,Engineering,Speciality Products,Male,Caucasian,41,15-03-2007,67837
+387,Caleb Nelson,Director,Marketing,Corporate,Male,Caucasian,33,12-06-2017,67837
+388,David Barnes,Director,IT,Corporate,Male,Caucasian,64,03-11-2013,67837
+389,Evelyn Dinh,Director,Sales,Research & Development,Female,Asian,41,10-08-2018,67837
+390,Everleigh Jiang,Director,Accounting,Research & Development,Female,Asian,58,14-05-2003,67837
+391,Jose Henderson,Director,Human Resources,Speciality Products,Male,Black,41,17-04-2015,67837
+392,Matthew Howard,Director,Human Resources,Manufacturing,Male,Caucasian,50,17-10-2021,67837
+393,Nicholas Wong,Director,Sales,Research & Development,Male,Asian,27,07-11-2019,67837
+394,Nora Park,Director,Accounting,Speciality Products,Female,Asian,29,28-06-2017,67837
+395,Olivia Harris,Director,Sales,Speciality Products,Female,Caucasian,63,14-06-2020,67837
+396,Paisley Hall,Director,Human Resources,Speciality Products,Female,Caucasian,41,21-05-2010,67837
+397,Samuel Song,Director,Sales,Corporate,Male,Asian,31,29-06-2015,67837
+398,Scarlett Hill,Director,Engineering,Speciality Products,Female,Black,45,22-04-2018,67837
+399,Ava Ortiz,Enterprise Architect,IT,Manufacturing,Female,Latino,53,20-07-2004,67837
+400,Daniel Perry,Enterprise Architect,IT,Research & Development,Male,Caucasian,62,15-04-2001,67837
+401,Audrey Smith,Field Engineer,Engineering,Research & Development,Female,Caucasian,58,27-10-1995,67837
+402,Thomas Williams,Field Engineer,Engineering,Speciality Products,Male,Caucasian,45,21-11-2015,67837
+403,Brooks Stewart,HRIS Analyst,Human Resources,Manufacturing,Male,Black,45,19-12-2015,67837
+404,Ethan Joseph,IT Coordinator,IT,Research & Development,Male,Caucasian,45,28-05-2018,67837
+405,Ezekiel Kumar,IT Coordinator,IT,Research & Development,Male,Asian,28,25-06-2017,67837
+406,Addison Mehta,Manager,Sales,Corporate,Female,Asian,27,15-09-2018,67837
+407,Alexander Jackson,Manager,Human Resources,Corporate,Male,Caucasian,45,09-07-2012,67837
+408,Elena Richardson,Manager,Accounting,Manufacturing,Female,Caucasian,34,03-10-2014,67837
+409,Genesis Woods,Manager,Human Resources,Speciality Products,Female,Black,33,21-08-2013,67837
+410,Jack Edwards,Manager,Marketing,Manufacturing,Male,Caucasian,38,06-04-2008,67837
+411,Jayden Williams,Manager,Human Resources,Manufacturing,Male,Caucasian,64,26-12-1992,67837
+412,Lucy Johnson,Manager,IT,Research & Development,Female,Caucasian,57,27-04-2020,67837
+413,Mateo Harris,Manager,IT,Corporate,Male,Caucasian,30,05-08-2017,67837
+414,Maya Ngo,Manager,Sales,Speciality Products,Female,Asian,55,20-10-2012,67837
+415,Olivia Gray,Manager,Marketing,Research & Development,Female,Black,42,19-09-2015,67837
+416,Vivian Lewis,Manager,Marketing,Manufacturing,Female,Caucasian,65,07-09-2011,67837
+417,Everett Lee,Network Administrator,IT,Research & Development,Male,Asian,45,26-02-2010,67837
+418,Madison Hunter,Network Administrator,IT,Corporate,Female,Caucasian,40,05-02-2012,67837
+419,Jameson Nelson,Network Architect,IT,Research & Development,Male,Caucasian,61,08-03-2016,67837
+420,Penelope Silva,Network Architect,IT,Speciality Products,Female,Latino,36,03-11-2016,67837
+421,Jeremiah Hernandez,Network Engineer,IT,Manufacturing,Male,Latino,26,14-04-2019,67837
+422,Addison Do,Operations Engineer,Engineering,Manufacturing,Female,Asian,46,30-05-2001,67837
+423,Amelia Kaur,Operations Engineer,Engineering,Research & Development,Female,Asian,30,14-11-2015,67837
+424,Mila Vasquez,Quality Engineer,Engineering,Manufacturing,Female,Latino,60,16-07-1998,67837
+425,Brooklyn Reyes,Service Desk Analyst,IT,Manufacturing,Female,Latino,36,19-12-2019,67837
+426,Jaxson Wright,Service Desk Analyst,IT,Manufacturing,Male,Black,54,28-12-2010,67837
+427,Caroline Nelson,Sr. Account Representative,Sales,Speciality Products,Female,Black,60,30-07-1997,67837
+428,Anna Molina,Sr. Analyst,Accounting,Corporate,Female,Latino,41,12-06-2016,67837
+429,Lincoln Wong,Sr. Analyst,Finance,Corporate,Male,Asian,49,07-06-2019,67837
+430,Piper Richardson,Sr. Analyst,Sales,Corporate,Female,Caucasian,38,27-01-2008,67837
+431,Wesley Young,Sr. Analyst,Marketing,Speciality Products,Male,Caucasian,33,18-09-2016,67837
+432,Ethan Clark,Sr. Business Partner,Human Resources,Manufacturing,Male,Caucasian,33,04-08-2017,67837
+433,Alexander James,Sr. Manger,Human Resources,Manufacturing,Male,Caucasian,42,18-04-2013,67837
+434,Anthony Hong,Sr. Manger,IT,Research & Development,Male,Asian,37,29-11-2010,67837
+435,Asher Jackson,Sr. Manger,Sales,Speciality Products,Male,Caucasian,50,25-03-2003,67837
+436,Ezekiel Jordan,Sr. Manger,Accounting,Corporate,Male,Caucasian,33,10-02-2013,67837
+437,Genesis Perry,Sr. Manger,Sales,Corporate,Female,Caucasian,46,18-07-2013,67837
+438,Grayson Cooper,Sr. Manger,Finance,Speciality Products,Male,Black,64,29-06-2013,67837
+439,Hailey Watson,Sr. Manger,Accounting,Corporate,Female,Black,31,20-01-2017,67837
+440,Ivy Daniels,Sr. Manger,Human Resources,Speciality Products,Female,Caucasian,41,26-10-2008,67837
+441,Jose Singh,Sr. Manger,Finance,Speciality Products,Male,Asian,44,06-04-2010,67837
+442,Lillian Chen,Sr. Manger,Marketing,Research & Development,Female,Asian,25,09-04-2020,67837
+443,Lucy Figueroa,Sr. Manger,Finance,Research & Development,Female,Latino,45,10-01-2016,67837
+444,Ryan Holmes,Sr. Manger,Marketing,Speciality Products,Male,Caucasian,45,11-01-2018,67837
+445,Victoria Johnson,Sr. Manger,Accounting,Corporate,Female,Caucasian,55,28-05-2004,67837
+446,Genesis Xiong,System Administrator ,IT,Research & Development,Female,Asian,51,25-02-2012,67837
+447,Miles Thao,System Administrator ,IT,Corporate,Male,Asian,57,26-06-2003,67837
+448,Adrian Fernandez,Systems Analyst,IT,Research & Development,Male,Latino,45,23-08-2001,67837
+449,Scarlett Kumar,Systems Analyst,IT,Corporate,Female,Asian,55,07-01-2009,67837
+450,Silas Chavez,Technical Architect,IT,Research & Development,Male,Latino,51,15-04-2008,67837
+451,Cameron Evans,Test Engineer,Engineering,Corporate,Male,Caucasian,50,13-12-2018,67837
+452,Everleigh Shah,Test Engineer,Engineering,Research & Development,Female,Asian,36,14-12-2018,67837
+453,Gabriel Carter,Test Engineer,Engineering,Manufacturing,Male,Caucasian,57,18-07-2018,67837
+454,Quinn Xiong,Test Engineer,Engineering,Research & Development,Female,Asian,55,08-09-2013,67837
+455,Allison Roberts,Vice President,Sales,Manufacturing,Female,Black,54,19-08-2000,67837
+456,Anthony Marquez,Vice President,IT,Speciality Products,Male,Latino,54,15-08-2009,67837
+457,Anthony Rogers,Vice President,Engineering,Corporate,Male,Caucasian,33,18-06-2015,67837
+458,Christopher Lam,Vice President,Accounting,Manufacturing,Male,Asian,64,29-03-2013,67837
+459,Daniel Huang,Vice President,Human Resources,Corporate,Male,Asian,31,03-09-2015,67837
+460,Emery Acosta,Vice President,Sales,Research & Development,Female,Latino,42,11-09-2013,67837
+461,Everly Coleman,Vice President,IT,Corporate,Female,Caucasian,48,18-02-2015,67837
+462,Hadley Parker,Vice President,Marketing,Corporate,Female,Black,30,21-09-2016,67837
+463,Jonathan Ho,Vice President,IT,Manufacturing,Male,Asian,37,25-06-2011,67837
+464,Jordan Phillips,Vice President,Human Resources,Corporate,Male,Black,45,12-12-2010,67837
+465,Landon Brown,Vice President,Marketing,Corporate,Male,Caucasian,26,27-09-2020,67837
+466,Logan Soto,Vice President,Finance,Research & Development,Male,Latino,36,18-08-2018,67837
+467,Maria Wilson,Vice President,Engineering,Research & Development,Female,Caucasian,51,14-06-1996,67837
+468,Raelynn Rios,Vice President,Sales,Manufacturing,Female,Latino,43,21-08-2016,67837
+469,Samantha Barnes,Vice President,Marketing,Speciality Products,Female,Caucasian,29,05-01-2017,67837
+470,Skylar Bell,Vice President,Engineering,Manufacturing,Female,Caucasian,30,06-03-2018,67837
+471,Alice Soto,Analyst,Accounting,Corporate,Female,Latino,56,13-04-1995,67837
+472,Dominic Guzman,Analyst,Finance,Manufacturing,Male,Latino,65,16-05-2004,67837
+473,Autumn Gonzales,Analyst II,Sales,Corporate,Female,Latino,34,06-06-2012,67837
+474,Parker Avila,Analyst II,Marketing,Manufacturing,Male,Latino,47,28-11-2005,67837
+475,Kennedy Vargas,Business Partner,Human Resources,Manufacturing,Female,Latino,45,14-10-2005,67837
+476,Genesis Navarro,Cloud Infrastructure Architect,IT,Corporate,Female,Latino,41,28-04-2009,67837
+477,Lillian Gonzales,Cloud Infrastructure Architect,IT,Manufacturing,Female,Latino,43,13-03-2009,67837
+478,Nolan Molina,Computer Systems Manager,IT,Corporate,Male,Latino,36,27-12-2020,67837
+479,Jose Molina,Controls Engineer,Engineering,Manufacturing,Male,Latino,40,28-02-2008,67837
+480,Everleigh Fernandez,Director,Engineering,Research & Development,Female,Latino,30,22-05-2016,67837
+481,Ezekiel Delgado,Director,Engineering,Speciality Products,Male,Latino,40,07-02-2020,67837
+482,Grace Campos,Director,Engineering,Research & Development,Female,Latino,37,21-03-2008,67837
+483,Josephine Acosta,Director,Human Resources,Speciality Products,Female,Latino,40,20-09-2020,67837
+484,Luke Munoz,Director,Engineering,Speciality Products,Male,Latino,64,25-08-2017,67837
+485,Mia Herrera,Director,Marketing,Research & Development,Female,Latino,43,16-10-2014,67837
+486,Mila Soto,Director,Finance,Research & Development,Female,Latino,65,07-10-2008,67837
+487,Leah Pena,Enterprise Architect,IT,Corporate,Female,Latino,57,03-01-1994,67837
+488,Emma Luna,Field Engineer,Engineering,Speciality Products,Female,Latino,52,25-03-2008,67837
+489,Everleigh Nunez,Field Engineer,Engineering,Speciality Products,Female,Latino,42,05-02-2021,67837
+490,Eva Garcia,HRIS Analyst,Human Resources,Corporate,Female,Latino,31,11-04-2021,67837
+491,Isla Espinoza,Manager,Accounting,Speciality Products,Female,Latino,38,16-11-2021,67837
+492,Lydia Morales,Manager,Finance,Speciality Products,Female,Latino,51,14-06-2013,67837
+493,Robert Alvarez,Service Desk Analyst,IT,Corporate,Male,Latino,39,21-10-2016,67837
+494,Alexander Rivera,Sr. Analyst,Sales,Research & Development,Male,Latino,58,27-04-2009,67837
+495,Natalia Salazar,Sr. Analyst,Accounting,Manufacturing,Female,Latino,44,02-01-2019,67837
+496,Samantha Chavez,Sr. Analyst,Sales,Speciality Products,Female,Latino,53,09-01-2017,67837
+497,Scarlett Rodriguez,Sr. Analyst,Finance,Manufacturing,Female,Latino,60,24-02-2007,67837
+498,Henry Alvarez,Sr. Business Partner,Human Resources,Manufacturing,Male,Latino,48,12-04-2005,67837
+499,Leo Herrera,Sr. Business Partner,Human Resources,Research & Development,Male,Latino,48,22-04-1998,67837
+500,Mila Pena,Sr. Business Partner,Human Resources,Manufacturing,Female,Latino,45,21-12-2007,67837
+501,Ava Ayala,Sr. Manger,IT,Corporate,Female,Latino,55,16-08-2006,67837
+502,Elias Alvarado,Sr. Manger,IT,Manufacturing,Male,Latino,56,09-01-2012,67837
+503,Ellie Guerrero,Sr. Manger,Human Resources,Corporate,Female,Latino,29,13-07-2020,67837
+504,Henry Figueroa,Sr. Manger,Finance,Manufacturing,Male,Latino,46,19-07-2010,67837
+505,Joshua Cortez,Sr. Manger,Finance,Corporate,Male,Latino,44,11-08-2007,67837
+506,Roman Martinez,Sr. Manger,Finance,Research & Development,Male,Latino,31,19-09-2015,67837
+507,Levi Moreno,Systems Analyst,IT,Research & Development,Male,Latino,64,27-06-2020,67837
+508,Peyton Garza,Systems Analyst,IT,Manufacturing,Female,Latino,53,15-08-2004,67837
+509,Aiden Silva,Vice President,IT,Research & Development,Male,Latino,42,29-11-2010,67837
+510,Claire Romero,Vice President,Marketing,Manufacturing,Female,Latino,37,21-07-2011,67837
+511,Hailey Sanchez,Vice President,Marketing,Corporate,Female,Latino,32,05-02-2014,67837
+512,James Castillo,Vice President,IT,Manufacturing,Male,Latino,51,19-07-2001,67837
+513,Madeline Watson,Account Representative,Sales,Research & Development,Female,Black,40,27-05-2009,67837
+514,Brooklyn Daniels,Analyst,Marketing,Speciality Products,Female,Caucasian,64,10-02-2003,67837
+515,Connor Vang,Analyst,Sales,Speciality Products,Male,Asian,25,28-07-2021,67837
+516,Kinsley Dixon,Analyst,Accounting,Manufacturing,Female,Caucasian,28,25-05-2019,67837
+517,Luke Martin,Analyst,Finance,Manufacturing,Male,Black,25,16-05-2020,67837
+518,Parker Vang,Analyst,Sales,Corporate,Male,Asian,40,17-12-2016,67837
+519,Penelope Coleman,Analyst,Finance,Corporate,Female,Black,36,27-08-2021,67837
+520,Peyton Walker,Analyst,Marketing,Research & Development,Female,Caucasian,43,13-07-2019,67837
+521,Samantha Rogers,Analyst,Marketing,Speciality Products,Female,Caucasian,28,17-01-2020,67837
+522,Valentina Davis,Analyst,Sales,Speciality Products,Female,Caucasian,33,13-04-2014,67837
+523,Connor Simmons,Analyst II,Accounting,Speciality Products,Male,Caucasian,55,05-04-2007,67837
+524,Jacob Doan,Analyst II,Sales,Speciality Products,Male,Asian,55,02-08-2021,67837
+525,Joseph Martin,Analyst II,Marketing,Corporate,Male,Black,41,13-09-2016,67837
+526,Samuel Vega,Analyst II,Marketing,Speciality Products,Male,Latino,37,30-03-2013,67837
+527,Andrew Huynh,Business Partner,Human Resources,Speciality Products,Male,Asian,57,28-04-1997,67837
+528,Scarlett Figueroa,Business Partner,Human Resources,Speciality Products,Female,Latino,34,21-10-2016,67837
+529,Zoey Jackson,Business Partner,Human Resources,Manufacturing,Female,Black,46,21-08-2008,67837
+530,Mila Allen,Controls Engineer,Engineering,Corporate,Female,Caucasian,56,14-10-2015,67837
+531,Autumn Reed,Development Engineer,Engineering,Corporate,Female,Caucasian,37,17-09-2017,67837
+532,Jameson Juarez,Development Engineer,Engineering,Speciality Products,Male,Latino,62,09-10-1994,67837
+533,Noah King,Development Engineer,Engineering,Speciality Products,Male,Black,56,27-01-2015,67837
+534,Alice Roberts,Director,Human Resources,Manufacturing,Female,Caucasian,54,26-09-1994,67837
+535,Andrew Coleman,Director,Finance,Corporate,Male,Caucasian,41,15-05-2019,67837
+536,Athena Vu,Director,Accounting,Manufacturing,Female,Asian,63,06-03-2007,67837
+537,Bella Holmes,Director,Accounting,Research & Development,Female,Caucasian,35,26-06-2017,67837
+538,Dylan Chin,Director,Finance,Corporate,Male,Asian,60,05-06-2017,67837
+539,Eva Rivera,Director,Sales,Manufacturing,Female,Latino,36,02-04-2021,67837
+540,Gabriel Joseph,Director,Engineering,Manufacturing,Male,Caucasian,52,28-10-2006,67837
+541,Isaac Stewart,Director,Marketing,Speciality Products,Male,Caucasian,25,15-08-2020,67837
+542,Jordan Truong,Director,Engineering,Speciality Products,Male,Asian,45,28-08-2014,67837
+543,Jose Richardson,Director,Marketing,Research & Development,Male,Caucasian,26,15-10-2019,67837
+544,Kinsley Henry,Director,Marketing,Manufacturing,Female,Black,45,29-02-2008,67837
+545,Madison Nelson,Director,Accounting,Corporate,Female,Caucasian,27,16-07-2021,67837
+546,Melody Valdez,Director,IT,Manufacturing,Female,Latino,28,25-01-2021,67837
+547,Miles Mehta,Director,Finance,Research & Development,Male,Asian,64,02-05-1996,67837
+548,Oliver Yang,Director,Marketing,Speciality Products,Male,Asian,31,10-06-2019,67837
+549,William Watson,Director,Accounting,Speciality Products,Male,Caucasian,41,04-06-2013,67837
+550,Hudson Liu,Engineering Manager,Engineering,Speciality Products,Male,Asian,34,16-11-2017,67837
+551,Jose Ross,Engineering Manager,Engineering,Research & Development,Male,Caucasian,53,08-04-1992,67837
+552,Silas Huang,Engineering Manager,Engineering,Research & Development,Male,Asian,57,09-01-1992,67837
+553,Autumn Joseph,Enterprise Architect,IT,Corporate,Female,Black,39,09-05-2018,67837
+554,Isabella Bui,Enterprise Architect,IT,Manufacturing,Female,Asian,36,21-11-2014,67837
+555,Peyton Harris,Enterprise Architect,IT,Research & Development,Female,Caucasian,45,05-04-2009,67837
+556,Piper Cheng,Enterprise Architect,IT,Manufacturing,Female,Asian,62,15-03-2009,67837
+557,Sophia Huynh,Enterprise Architect,IT,Manufacturing,Female,Asian,55,09-08-2005,67837
+558,Emily Gupta,HRIS Analyst,Human Resources,Corporate,Female,Asian,44,23-02-2006,67837
+559,Isaac Sanders,HRIS Analyst,Human Resources,Manufacturing,Male,Caucasian,49,29-03-2001,67837
+560,Sebastian Rogers,HRIS Analyst,Human Resources,Research & Development,Male,Caucasian,38,29-11-2019,67837
+561,Emma Hill,IT Coordinator,IT,Manufacturing,Female,Caucasian,54,27-12-2016,67837
+562,Miles Dang,IT Coordinator,IT,Speciality Products,Male,Asian,61,24-09-2000,67837
+563,Amelia Choi,Manager,Marketing,Speciality Products,Female,Asian,43,11-06-2006,67837
+564,Camila Evans,Manager,Marketing,Research & Development,Female,Black,55,20-12-1992,67837
+565,Elijah Henry,Manager,IT,Corporate,Male,Caucasian,32,03-01-2014,67837
+566,Hannah Martinez,Manager,Marketing,Manufacturing,Female,Latino,65,07-09-2006,67837
+567,Isaac Woods,Manager,Sales,Corporate,Male,Caucasian,28,08-01-2021,67837
+568,Jaxson Coleman,Manager,Finance,Manufacturing,Male,Caucasian,32,15-04-2020,67837
+569,Julia Sandoval,Manager,Human Resources,Corporate,Female,Latino,42,19-11-2017,67837
+570,Julian Ross,Manager,Marketing,Research & Development,Male,Caucasian,51,02-07-2020,67837
+571,Lily Pena,Manager,Human Resources,Speciality Products,Female,Latino,55,24-02-2010,67837
+572,Luca Nelson,Manager,Finance,Speciality Products,Male,Caucasian,60,15-06-2010,67837
+573,Lucas Thomas,Manager,Accounting,Research & Development,Male,Caucasian,55,28-04-2000,67837
+574,Maria Griffin,Manager,Marketing,Manufacturing,Female,Caucasian,59,25-04-2007,67837
+575,Nova Williams,Manager,Finance,Speciality Products,Female,Black,61,25-04-2010,67837
+576,Parker Sandoval,Manager,Human Resources,Speciality Products,Male,Latino,59,10-06-2015,67837
+577,Christopher Butler,Network Architect,IT,Manufacturing,Male,Caucasian,41,05-10-2017,67837
+578,Miles Evans,Network Architect,IT,Manufacturing,Male,Caucasian,54,24-10-1994,67837
+579,Gabriel Brooks,Network Engineer,IT,Manufacturing,Male,Caucasian,29,10-12-2018,67837
+580,Sophie Oh,Network Engineer,IT,Corporate,Female,Asian,29,09-11-2017,67837
+581,Ian Barnes,Operations Engineer,Engineering,Corporate,Male,Caucasian,47,08-06-2020,67837
+582,Ezra Ortiz,Quality Engineer,Engineering,Research & Development,Male,Latino,41,21-01-2012,67837
+583,Jacob Cheng,Quality Engineer,Engineering,Research & Development,Male,Asian,59,23-12-2009,67837
+584,Nathan Miller,Quality Engineer,Engineering,Speciality Products,Male,Black,27,28-05-2019,67837
+585,Ezra Wilson,Service Desk Analyst,IT,Manufacturing,Male,Caucasian,55,18-10-2013,67837
+586,Allison Espinoza,Solutions Architect,IT,Speciality Products,Female,Latino,45,16-04-2020,67837
+587,Colton Garcia,Solutions Architect,IT,Speciality Products,Male,Latino,55,17-11-1993,67837
+588,Eloise Trinh,Solutions Architect,IT,Speciality Products,Female,Asian,39,22-04-2020,67837
+589,Luke Wilson,Solutions Architect,IT,Speciality Products,Male,Caucasian,34,24-05-2016,67837
+590,Ezekiel Bryant,Sr. Analyst,Finance,Manufacturing,Male,Caucasian,55,19-07-2002,67837
+591,Logan Carrillo,Sr. Analyst,Marketing,Research & Development,Male,Latino,33,30-11-2014,67837
+592,Parker Allen,Sr. Analyst,Sales,Speciality Products,Male,Caucasian,31,13-08-2018,67837
+593,Raelynn Ma,Sr. Analyst,Finance,Speciality Products,Female,Asian,33,08-10-2015,67837
+594,Stella Lai,Sr. Analyst,Accounting,Manufacturing,Female,Asian,44,28-04-2021,67837
+595,Elijah Coleman,Sr. Manger,Sales,Research & Development,Male,Caucasian,53,19-10-2014,67837
+596,Ezekiel Reed,Sr. Manger,IT,Manufacturing,Male,Caucasian,37,25-02-2014,67837
+597,Joseph Vazquez,Sr. Manger,Accounting,Speciality Products,Male,Latino,40,23-01-2019,67837
+598,Logan Bryant,Sr. Manger,Marketing,Speciality Products,Male,Caucasian,30,18-07-2020,67837
+599,Paisley Sanders,Sr. Manger,Marketing,Speciality Products,Female,Caucasian,55,27-03-2001,67837
+600,Piper Ramos,Sr. Manger,Sales,Manufacturing,Female,Latino,49,02-04-1996,67837
+601,Sarah Daniels,Sr. Manger,Accounting,Manufacturing,Female,Caucasian,55,09-01-2011,67837
+602,Savannah Ali,Sr. Manger,Human Resources,Manufacturing,Female,Asian,36,11-02-2009,67837
+603,Andrew Reed,System Administrator ,IT,Corporate,Male,Black,28,17-06-2019,67837
+604,Nova Coleman,System Administrator ,IT,Manufacturing,Female,Caucasian,44,13-12-2006,67837
+605,Avery Yee,Systems Analyst,IT,Manufacturing,Female,Asian,34,22-05-2016,67837
+606,Eli Reed,Systems Analyst,IT,Corporate,Male,Caucasian,51,27-02-2014,67837
+607,Ayla Daniels,Technical Architect,IT,Corporate,Female,Caucasian,53,23-04-1997,67837
+608,Charles Moore,Technical Architect,IT,Manufacturing,Male,Black,34,16-02-2016,67837
+609,Hannah Gomez,Technical Architect,IT,Manufacturing,Female,Latino,25,11-05-2021,67837
+610,Riley Padilla,Technical Architect,IT,Manufacturing,Female,Latino,35,15-05-2013,67837
+611,Eliana Li,Test Engineer,Engineering,Research & Development,Female,Asian,63,07-05-2018,67837
+612,Emilia Rivera,Test Engineer,Engineering,Research & Development,Female,Latino,42,23-11-2017,67837
+613,Andrew Holmes,Vice President,IT,Speciality Products,Male,Black,59,30-12-2010,67837
+614,Emily Clark,Vice President,Accounting,Corporate,Female,Caucasian,36,13-01-2020,67837
+615,Ezra Liang,Vice President,Finance,Research & Development,Male,Asian,52,26-05-1997,67837
+616,Greyson Lam,Vice President,Accounting,Manufacturing,Male,Asian,25,08-02-2021,67837
+617,Jack Alexander,Vice President,IT,Manufacturing,Male,Caucasian,56,29-05-2006,67837
+618,Landon Luu,Vice President,IT,Research & Development,Male,Asian,31,12-07-2015,67837
+619,Naomi Zhao,Vice President,Human Resources,Speciality Products,Female,Asian,45,22-09-2021,67837
+620,Ryan Ha,Vice President,Marketing,Corporate,Male,Asian,60,27-01-2007,67837
+621,Scarlett Jenkins,Vice President,IT,Research & Development,Female,Caucasian,53,09-11-2011,67837
+622,Sofia Cheng,Vice President,Accounting,Corporate,Female,Asian,63,26-07-2020,67837
+623,Willow Woods,Vice President,Human Resources,Speciality Products,Female,Caucasian,28,25-07-2021,67837
+624,Xavier Jackson,Vice President,Marketing,Speciality Products,Male,Caucasian,52,11-06-2002,67837
+625,Autumn Thao,Account Representative,Sales,Manufacturing,Female,Asian,63,26-09-2017,67837
+626,Jack Brown,Analyst,Marketing,Corporate,Male,Caucasian,55,07-12-2004,67837
+627,Madelyn Mehta,Analyst,Sales,Speciality Products,Female,Asian,64,28-01-2005,67837
+628,Peyton Vasquez,Analyst,Accounting,Corporate,Female,Latino,26,24-01-2019,67837
+629,Samantha Woods,Analyst,Accounting,Speciality Products,Female,Caucasian,56,25-12-2019,67837
+630,Benjamin Ford,Analyst II,Finance,Speciality Products,Male,Caucasian,31,22-04-2021,67837
+631,Ella Jenkins,Analyst II,Finance,Speciality Products,Female,Caucasian,52,20-12-2019,67837
+632,Hudson Thompson,Analyst II,Accounting,Manufacturing,Male,Black,30,20-10-2020,67837
+633,Jordan Cho,Analyst II,Accounting,Speciality Products,Male,Asian,28,24-08-2018,67837
+634,Leilani Butler,Analyst II,Marketing,Manufacturing,Female,Black,27,21-09-2021,67837
+635,Nicholas Brooks,Analyst II,Accounting,Manufacturing,Male,Caucasian,43,20-10-2017,67837
+636,Samuel Morales,Analyst II,Finance,Corporate,Male,Latino,34,27-06-2015,67837
+637,Vivian Guzman,Analyst II,Finance,Speciality Products,Female,Latino,53,09-02-2002,67837
+638,Ezra Simmons,Automation Engineer,Engineering,Speciality Products,Male,Caucasian,38,01-07-2010,67837
+639,Kinsley Collins,Automation Engineer,Engineering,Speciality Products,Female,Caucasian,28,14-11-2018,67837
+640,Eliana Allen,Business Partner,Human Resources,Research & Development,Female,Caucasian,56,20-08-2009,67837
+641,Jackson Jordan,Business Partner,Human Resources,Research & Development,Male,Black,48,21-09-2020,67837
+642,Kayden Jordan,Cloud Infrastructure Architect,IT,Research & Development,Male,Caucasian,48,14-09-2010,67837
+643,Kennedy Do,Computer Systems Manager,IT,Manufacturing,Female,Asian,42,15-10-2005,67837
+644,Liam Jordan,Computer Systems Manager,IT,Manufacturing,Male,Caucasian,28,08-08-2020,67837
+645,Christopher Chung,Controls Engineer,Engineering,Corporate,Male,Asian,28,18-12-2021,67837
+646,Eleanor Chau,Development Engineer,Engineering,Research & Development,Female,Asian,37,08-03-2020,67837
+647,Ella White,Development Engineer,Engineering,Manufacturing,Female,Caucasian,25,20-01-2020,67837
+648,Aubrey Romero,Director,Sales,Corporate,Female,Latino,49,02-04-1998,67837
+649,Austin Brown,Director,Marketing,Research & Development,Male,Caucasian,48,08-08-2007,67837
+650,Ava Garza,Director,Accounting,Manufacturing,Female,Latino,27,25-06-2018,67837
+651,Bella Powell,Director,Finance,Research & Development,Female,Black,65,04-03-2002,67837
+652,Caroline Owens,Director,IT,Speciality Products,Female,Caucasian,26,26-07-2021,67837
+653,Claire Adams,Director,Sales,Manufacturing,Female,Black,61,19-08-1997,67837
+654,Dylan Campbell,Director,Engineering,Speciality Products,Male,Caucasian,45,29-11-2010,67837
+655,Ethan Mehta,Director,Sales,Research & Development,Male,Asian,49,20-07-2001,67837
+656,Jade Rojas,Director,Finance,Speciality Products,Female,Latino,37,28-01-2019,67837
+657,Riley Washington,Director,Sales,Speciality Products,Female,Caucasian,39,29-04-2007,67837
+658,Vivian Barnes,Director,Human Resources,Research & Development,Female,Caucasian,51,28-03-2021,67837
+659,Zoe Rodriguez,Director,Human Resources,Speciality Products,Female,Latino,65,23-05-2004,67837
+660,Emily Doan,Engineering Manager,Engineering,Corporate,Female,Asian,32,04-12-2014,67837
+661,Jaxson Santiago,Engineering Manager,Engineering,Research & Development,Male,Latino,56,20-09-2018,67837
+662,Hazel Griffin,Field Engineer,Engineering,Corporate,Female,Caucasian,32,09-11-2015,67837
+663,Jaxson Liang,Field Engineer,Engineering,Manufacturing,Male,Asian,64,03-03-2019,67837
+664,Skylar Shah,Field Engineer,Engineering,Manufacturing,Female,Asian,42,27-04-2012,67837
+665,William Foster,Field Engineer,Engineering,Manufacturing,Male,Caucasian,58,23-05-2002,67837
+666,Everleigh Washington,HRIS Analyst,Human Resources,Research & Development,Female,Caucasian,64,20-10-2001,67837
+667,Landon Thao,HRIS Analyst,Human Resources,Speciality Products,Male,Asian,25,21-01-2021,67837
+668,Lily Henderson,HRIS Analyst,Human Resources,Manufacturing,Female,Caucasian,61,20-05-2011,67837
+669,Brooklyn Ruiz,IT Coordinator,IT,Manufacturing,Female,Latino,61,10-08-2014,67837
+670,Lyla Alvarez,IT Systems Architect,IT,Research & Development,Female,Latino,55,30-08-1994,67837
+671,Alexander Gonzales,Manager,Accounting,Research & Development,Male,Latino,34,04-06-2018,67837
+672,Alexander Morris,Manager,Sales,Speciality Products,Male,Caucasian,33,21-06-2013,67837
+673,Allison Daniels,Manager,Finance,Manufacturing,Female,Caucasian,37,14-04-2020,67837
+674,Asher Huynh,Manager,IT,Manufacturing,Male,Asian,45,22-01-2015,67837
+675,Camila Cortez,Manager,Marketing,Manufacturing,Female,Latino,29,09-05-2021,67837
+676,David Simmons,Manager,Marketing,Corporate,Male,Caucasian,51,26-01-1997,67837
+677,Ian Ngo,Manager,Sales,Speciality Products,Male,Asian,52,07-08-2014,67837
+678,Jace Washington,Manager,Accounting,Research & Development,Male,Caucasian,44,09-02-2002,67837
+679,Landon Kim,Manager,Human Resources,Speciality Products,Male,Asian,50,15-03-2012,67837
+680,Leonardo Luong,Manager,Finance,Manufacturing,Male,Asian,52,29-12-1999,67837
+681,Madelyn Chan,Manager,Sales,Speciality Products,Female,Asian,64,21-05-2003,67837
+682,Naomi Coleman,Manager,Marketing,Corporate,Female,Caucasian,29,02-11-2016,67837
+683,Nova Hsu,Manager,Human Resources,Speciality Products,Female,Asian,32,03-01-2017,67837
+684,Roman Yang,Manager,Human Resources,Manufacturing,Male,Asian,42,12-12-2009,67837
+685,Ruby Barnes,Manager,IT,Corporate,Female,Caucasian,27,01-07-2020,67837
+686,Sofia Fernandez,Manager,Accounting,Manufacturing,Female,Latino,44,17-10-2005,67837
+687,Daniel Jordan,Network Administrator,IT,Corporate,Male,Caucasian,58,26-07-1993,67837
+688,Isabella Bailey,Network Administrator,IT,Manufacturing,Female,Caucasian,36,23-08-2010,67837
+689,Isabella Scott,Network Administrator,IT,Research & Development,Female,Caucasian,58,26-04-2016,67837
+690,Everleigh White,Network Architect,IT,Speciality Products,Female,Caucasian,59,20-10-2017,67837
+691,Lily Carter,Network Architect,IT,Research & Development,Female,Caucasian,54,18-05-1998,67837
+692,Skylar Watson,Network Architect,IT,Speciality Products,Female,Caucasian,28,08-10-2021,67837
+693,Dominic Clark,Quality Engineer,Engineering,Research & Development,Male,Caucasian,52,17-10-2012,67837
+694,Henry Green,Sr. Account Representative,Sales,Speciality Products,Male,Caucasian,32,03-02-2020,67837
+695,Thomas Aguilar,Sr. Account Representative,Sales,Speciality Products,Male,Latino,45,10-02-2021,67837
+696,Austin Vo,Sr. Analyst,Finance,Manufacturing,Male,Asian,55,20-11-1995,67837
+697,Avery Bailey,Sr. Analyst,Sales,Speciality Products,Female,Caucasian,49,15-05-1996,67837
+698,Axel Santos,Sr. Analyst,Accounting,Speciality Products,Male,Latino,62,17-02-2011,67837
+699,Carter Turner,Sr. Analyst,Marketing,Corporate,Male,Caucasian,33,17-11-2015,67837
+700,Dominic Scott,Sr. Analyst,Sales,Corporate,Male,Caucasian,45,16-03-2011,67837
+701,Emery Hunter,Sr. Analyst,Sales,Corporate,Female,Caucasian,28,03-07-2021,67837
+702,Emily Lau,Sr. Analyst,Finance,Manufacturing,Female,Asian,35,18-03-2019,67837
+703,Harper Alexander,Sr. Analyst,Sales,Speciality Products,Female,Caucasian,26,14-10-2019,67837
+704,Natalie Hwang,Sr. Analyst,Finance,Speciality Products,Female,Asian,63,31-12-1999,67837
+705,Penelope Gonzalez,Sr. Analyst,Sales,Corporate,Female,Latino,52,16-10-1994,67837
+706,Liam Grant,Sr. Business Partner,Human Resources,Research & Development,Male,Caucasian,30,15-03-2015,67837
+707,Lucas Ramos,Sr. Business Partner,Human Resources,Speciality Products,Male,Latino,56,21-01-1998,67837
+708,Mila Roberts,Sr. Business Partner,Human Resources,Corporate,Female,Caucasian,30,26-01-2017,67837
+709,Ayla Brown,Sr. Manger,Sales,Manufacturing,Female,Caucasian,49,15-04-2013,67837
+710,Clara Kang,Sr. Manger,IT,Manufacturing,Female,Asian,39,25-03-2017,67837
+711,Dylan Ali,Sr. Manger,Human Resources,Speciality Products,Male,Asian,27,16-04-2021,67837
+712,Elias Figueroa,Sr. Manger,Finance,Corporate,Male,Latino,45,24-12-2021,67837
+713,Hannah White,Sr. Manger,Accounting,Corporate,Female,Caucasian,62,30-01-2009,67837
+714,Henry Campos,Sr. Manger,Human Resources,Corporate,Male,Latino,38,27-09-2009,67837
+715,John Soto,Sr. Manger,Finance,Manufacturing,Male,Latino,60,23-09-2015,67837
+716,Joshua Chin,Sr. Manger,Marketing,Manufacturing,Male,Asian,60,26-07-2021,67837
+717,Joshua Martin,Sr. Manger,Human Resources,Research & Development,Male,Black,42,20-10-2003,67837
+718,Julia Morris,Sr. Manger,Human Resources,Corporate,Female,Caucasian,60,18-10-2008,67837
+719,Layla Scott,Sr. Manger,Accounting,Speciality Products,Female,Caucasian,48,30-07-2010,67837
+720,Madelyn Scott,Sr. Manger,IT,Research & Development,Female,Caucasian,46,09-01-2002,67837
+721,Mia Cheng,Sr. Manger,Sales,Manufacturing,Female,Asian,34,22-04-2015,67837
+722,Nevaeh Hsu,Sr. Manger,Human Resources,Manufacturing,Female,Asian,32,14-04-2017,67837
+723,Sadie Washington,Sr. Manger,Marketing,Research & Development,Female,Caucasian,29,24-05-2019,67837
+724,Santiago f Brooks,Sr. Manger,Sales,Corporate,Male,Black,51,01-09-2000,67837
+725,Skylar Ayala,Sr. Manger,Finance,Corporate,Female,Latino,55,06-02-2017,67837
+726,Stella Wu,Sr. Manger,Marketing,Speciality Products,Female,Asian,35,20-02-2014,67837
+727,Benjamin Mai,System Administrator ,IT,Corporate,Male,Asian,54,15-06-1998,67837
+728,Ava Nelson,Systems Analyst,IT,Manufacturing,Female,Caucasian,63,01-04-1992,67837
+729,Jameson Martin,Technical Architect,IT,Corporate,Male,Caucasian,37,15-02-2008,67837
+730,Aaliyah Mai,Vice President,IT,Speciality Products,Female,Asian,57,11-11-2016,67837
+731,Isaac Han,Vice President,Human Resources,Speciality Products,Male,Asian,31,14-01-2015,67837
+732,Jackson Perry,Vice President,Marketing,Research & Development,Male,Caucasian,27,20-10-2019,67837
+733,Robert Zhang,Vice President,Marketing,Corporate,Male,Asian,45,24-09-2015,67837
+734,Isla Chavez,Account Representative,Sales,Research & Development,Female,Latino,29,19-05-2018,67837
+735,Eli Soto,Analyst,Marketing,Speciality Products,Male,Latino,38,02-05-2016,67837
+736,Ian Vargas,Analyst,Sales,Manufacturing,Male,Latino,26,02-03-2021,67837
+737,Kayden Ortega,Analyst,Accounting,Manufacturing,Male,Latino,58,19-04-2010,67837
+738,Nora Santiago,Analyst,Accounting,Research & Development,Female,Latino,55,26-06-1996,67837
+739,Ian Cortez,Analyst II,Marketing,Research & Development,Male,Latino,61,30-04-2008,67837
+740,Charlotte Ruiz,Computer Systems Manager,IT,Manufacturing,Female,Latino,32,02-10-2017,67837
+741,Clara Sanchez,Controls Engineer,Engineering,Corporate,Female,Latino,47,02-10-2018,67837
+742,Ian Flores,Director,Engineering,Corporate,Male,Latino,48,10-12-2019,67837
+743,Logan Rivera,Director,IT,Research & Development,Male,Latino,59,24-05-2002,67837
+744,Aria Castro,Engineering Manager,Engineering,Speciality Products,Female,Latino,45,14-03-2014,67837
+745,David Herrera,Engineering Manager,Engineering,Speciality Products,Male,Latino,32,09-10-2021,67837
+746,Kennedy Romero,Engineering Manager,Engineering,Research & Development,Female,Latino,37,27-12-2018,67837
+747,Penelope Rodriguez,Engineering Manager,Engineering,Manufacturing,Female,Latino,49,12-03-2016,67837
+748,Athena Vasquez,Field Engineer,Engineering,Speciality Products,Female,Latino,59,16-09-2014,67837
+749,Caleb Marquez,IT Systems Architect,IT,Research & Development,Male,Latino,29,15-10-2019,67837
+750,Silas Estrada,IT Systems Architect,IT,Corporate,Male,Latino,49,24-06-2016,67837
+751,Caleb Flores,Manager,Human Resources,Manufacturing,Male,Latino,34,13-08-2013,67837
+752,Jayden Jimenez,Manager,Human Resources,Corporate,Male,Latino,46,24-09-2011,67837
+753,Eliza Hernandez,Network Architect,IT,Corporate,Female,Latino,48,04-07-2019,67837
+754,Riley Rojas,Network Architect,IT,Speciality Products,Female,Latino,36,21-01-2021,67837
+755,Abigail Mejia,Quality Engineer,Engineering,Corporate,Female,Latino,56,05-02-2005,67837
+756,Axel Soto,Quality Engineer,Engineering,Corporate,Male,Latino,46,22-04-2005,67837
+757,Charles Gonzalez,Quality Engineer,Engineering,Research & Development,Male,Latino,27,28-09-2018,67837
+758,Everett Morales,Solutions Architect,IT,Speciality Products,Male,Latino,57,10-07-2014,67837
+759,Dylan Dominguez,Sr. Analyst,Marketing,Research & Development,Male,Latino,42,07-04-2015,67837
+760,Hunter Ortiz,Sr. Analyst,Finance,Corporate,Male,Latino,46,20-01-2013,67837
+761,Jade Figueroa,Sr. Analyst,Sales,Manufacturing,Female,Latino,33,14-05-2012,67837
+762,Jordan Gomez,Sr. Analyst,Accounting,Research & Development,Male,Latino,58,15-09-1994,67837
+763,Paisley Gomez,Sr. Analyst,Sales,Manufacturing,Female,Latino,57,02-10-2007,67837
+764,Xavier Perez,Sr. Analyst,Sales,Manufacturing,Male,Latino,51,26-02-1998,67837
+765,Ian Gutierrez,Sr. Business Partner,Human Resources,Research & Development,Male,Latino,32,09-04-2021,67837
+766,Madeline Garcia,Sr. Business Partner,Human Resources,Speciality Products,Female,Latino,45,26-04-2019,67837
+767,Avery Dominguez,Sr. Manger,Sales,Corporate,Female,Latino,27,13-09-2019,67837
+768,Caroline Herrera,Sr. Manger,Marketing,Manufacturing,Female,Latino,45,19-08-2004,67837
+769,Elijah Ramos,Sr. Manger,IT,Speciality Products,Male,Latino,33,24-12-2012,67837
+770,Isla Guzman,Sr. Manger,Accounting,Speciality Products,Female,Latino,28,06-07-2019,67837
+771,Layla Torres,Sr. Manger,Finance,Manufacturing,Female,Latino,37,24-02-2013,67837
+772,Vivian Espinoza,Sr. Manger,Sales,Corporate,Female,Latino,52,05-10-2006,67837
+773,Julian Delgado,Systems Analyst,IT,Speciality Products,Male,Latino,29,19-05-2016,67837
+774,John Vega,Vice President,Finance,Corporate,Male,Latino,50,18-01-2004,67837
+775,Kinsley Vega,Vice President,Accounting,Corporate,Female,Latino,33,16-12-2020,67837
+776,Levi Mendez,Vice President,Sales,Research & Development,Male,Latino,39,23-08-2011,67837
+777,Sophie Silva,Vice President,Engineering,Corporate,Female,Latino,28,06-07-2017,67837
+778,Nova Herrera,Account Representative,Sales,Speciality Products,Female,Latino,45,10-05-2014,67837
+779,Nolan Pena,Analyst,Marketing,Manufacturing,Male,Latino,30,21-06-2018,67837
+780,Amelia Salazar,Analyst II,Finance,Corporate,Female,Latino,26,23-04-2019,67837
+781,Caroline Santos,Analyst II,Finance,Research & Development,Female,Latino,25,12-07-2020,67837
+782,Emily Contreras,Analyst II,Sales,Manufacturing,Female,Latino,56,15-06-1992,67837
+783,Joshua Juarez,Analyst II,Finance,Manufacturing,Male,Latino,46,05-05-2015,67837
+784,Nora Nunez,Analyst II,Finance,Research & Development,Female,Latino,45,06-08-2012,67837
+785,Asher Morales,Automation Engineer,Engineering,Research & Development,Male,Latino,52,10-07-2020,67837
+786,Hazel Alvarez,Business Partner,Human Resources,Research & Development,Female,Latino,62,19-04-2014,67837
+787,Eva Alvarado,Computer Systems Manager,IT,Manufacturing,Female,Latino,46,24-04-2017,67837
+788,Caroline Perez,Controls Engineer,Engineering,Corporate,Female,Latino,29,14-01-2018,67837
+789,Peyton Cruz,Development Engineer,Engineering,Manufacturing,Female,Latino,30,26-05-2016,67837
+790,Theodore Marquez,Development Engineer,Engineering,Speciality Products,Male,Latino,54,24-11-2012,67837
+791,Anna Gutierrez,Director,Engineering,Research & Development,Female,Latino,59,15-04-2003,67837
+792,Elena Mendoza,Director,Sales,Speciality Products,Female,Latino,27,24-10-2018,67837
+793,Jack Maldonado,Director,Engineering,Research & Development,Male,Latino,31,26-08-2020,67837
+794,Jackson Navarro,Director,Sales,Corporate,Male,Latino,52,25-09-2020,67837
+795,Kinsley Martinez,Director,Human Resources,Speciality Products,Female,Latino,52,28-08-1993,67837
+796,Nicholas Rivera,Director,Engineering,Corporate,Male,Latino,45,13-04-2007,67837
+797,Samantha Vargas,Director,Human Resources,Corporate,Female,Latino,53,21-07-2006,67837
+798,Thomas Vazquez,Director,Engineering,Corporate,Male,Latino,46,19-07-2014,67837
+799,Jameson Alvarado,Enterprise Architect,IT,Manufacturing,Male,Latino,47,14-03-1999,67837
+800,Autumn Ortiz,Field Engineer,Engineering,Research & Development,Female,Latino,30,17-12-2017,67837
+801,Joseph Ruiz,Field Engineer,Engineering,Manufacturing,Male,Latino,45,26-02-2002,67837
+802,Josephine Salazar,Field Engineer,Engineering,Speciality Products,Female,Latino,36,14-03-2016,67837
+803,Nolan Guzman,Field Engineer,Engineering,Speciality Products,Male,Latino,46,20-06-1999,67837
+804,Hazel Cortez,HRIS Analyst,Human Resources,Research & Development,Female,Latino,52,18-04-2021,67837
+805,Miles Salazar,IT Coordinator,IT,Manufacturing,Male,Latino,36,23-12-2010,67837
+806,Allison Medina,Manager,Finance,Speciality Products,Female,Latino,55,29-04-2010,67837
+807,Cooper Valdez,Manager,Sales,Corporate,Male,Latino,50,25-04-2012,67837
+808,Leo Fernandez,Manager,Finance,Research & Development,Male,Latino,54,28-04-1998,67837
+809,Mila Juarez,Manager,Sales,Speciality Products,Female,Latino,38,21-09-2017,67837
+810,Zoe Romero,Network Architect,IT,Manufacturing,Female,Latino,32,05-10-2021,67837
+811,Addison Perez,Operations Engineer,Engineering,Speciality Products,Female,Latino,29,25-09-2020,67837
+812,Carter Ortiz,Quality Engineer,Engineering,Speciality Products,Male,Latino,54,29-04-2012,67837
+813,Lucy Avila,Solutions Architect,IT,Speciality Products,Female,Latino,43,22-04-2010,67837
+814,Madeline Acosta,Sr. Account Representative,Sales,Speciality Products,Female,Latino,26,09-02-2021,67837
+815,Adrian Ruiz,Sr. Analyst,Finance,Corporate,Male,Latino,34,04-09-2014,67837
+816,Eleanor Delgado,Sr. Analyst,Marketing,Manufacturing,Female,Latino,33,27-04-2014,67837
+817,Jaxson Sandoval,Sr. Analyst,Sales,Speciality Products,Male,Latino,61,03-05-2017,67837
+818,Landon Lopez,Sr. Analyst,Accounting,Manufacturing,Male,Latino,38,05-07-2008,67837
+819,Zoe Sanchez,Sr. Analyst,Accounting,Research & Development,Female,Latino,53,23-12-2004,67837
+820,Carter Mejia,Sr. Manger,Human Resources,Research & Development,Male,Latino,29,09-05-2019,67837
+821,Charles Diaz,Sr. Manger,Sales,Corporate,Male,Latino,55,16-11-2013,67837
+822,Eva Estrada,Sr. Manger,Sales,Speciality Products,Female,Latino,45,24-07-2018,67837
+823,Hadley Guerrero,Sr. Manger,IT,Research & Development,Female,Latino,49,14-01-2004,67837
+824,Luke Sanchez,Sr. Manger,Human Resources,Manufacturing,Male,Latino,41,27-12-2015,67837
+825,Lydia Espinoza,Sr. Manger,Marketing,Speciality Products,Female,Latino,29,15-05-2020,67837
+826,Aiden Gonzales,Vice President,Marketing,Speciality Products,Male,Latino,44,28-03-2021,67837
+827,Isabella Soto,Vice President,Finance,Corporate,Female,Latino,27,15-12-2021,67837
+828,Joshua Ramirez,Vice President,Human Resources,Corporate,Male,Latino,44,10-09-2007,67837
+829,Natalia Santos,Vice President,Human Resources,Speciality Products,Female,Latino,45,25-02-2019,67837
+830,Thomas Padilla,Vice President,Marketing,Research & Development,Male,Latino,57,26-07-2003,67837
+831,Vivian Hunter,Account Representative,Sales,Corporate,Female,Black,26,21-08-2019,67837
+832,Abigail Garza,Analyst,Accounting,Manufacturing,Female,Latino,33,27-05-2018,67837
+833,Alice Tran,Analyst,Marketing,Corporate,Female,Asian,39,29-07-2014,67837
+834,Charles Moore,Analyst,Accounting,Speciality Products,Male,Caucasian,49,17-12-2011,67837
+835,Isaac Joseph,Analyst,Sales,Manufacturing,Male,Caucasian,54,24-09-1998,67837
+836,Jayden Kang,Analyst,Finance,Research & Development,Male,Asian,46,24-04-2011,67837
+837,Leonardo Dixon,Analyst,Sales,Speciality Products,Male,Caucasian,37,05-09-2019,67837
+838,Ruby Washington,Analyst,Marketing,Research & Development,Female,Black,65,17-06-2011,67837
+839,Sarah Ayala,Analyst,Sales,Corporate,Female,Latino,47,09-06-2015,67837
+840,Aaron Maldonado,Analyst II,Finance,Manufacturing,Male,Latino,39,17-09-2008,67837
+841,Angel Powell,Analyst II,Sales,Research & Development,Male,Caucasian,61,11-07-2008,67837
+842,Eva Figueroa,Analyst II,Sales,Research & Development,Female,Latino,48,14-05-2014,67837
+843,Maverick Medina,Analyst II,Sales,Manufacturing,Male,Latino,39,27-05-2007,67837
+844,Sophie Owens,Analyst II,Finance,Research & Development,Female,Caucasian,30,05-03-2015,67837
+845,Hadley Yee,Business Partner,Human Resources,Speciality Products,Female,Asian,31,12-03-2018,67837
+846,Anna Mehta,Cloud Infrastructure Architect,IT,Speciality Products,Female,Asian,32,05-01-2020,67837
+847,Madeline Allen,Cloud Infrastructure Architect,IT,Manufacturing,Female,Caucasian,30,03-02-2020,67837
+848,Nathan Chan,Cloud Infrastructure Architect,IT,Corporate,Male,Asian,45,02-03-2000,67837
+849,Easton Moore,Computer Systems Manager,IT,Research & Development,Male,Caucasian,52,23-05-2013,67837
+850,Gabriella Johnson,Computer Systems Manager,IT,Research & Development,Female,Caucasian,42,01-03-2006,67837
+851,Lincoln Reyes,Computer Systems Manager,IT,Manufacturing,Male,Latino,60,03-08-1998,67837
+852,Madeline Shin,Computer Systems Manager,IT,Speciality Products,Female,Asian,48,09-01-2007,67837
+853,Camila Rogers,Controls Engineer,Engineering,Speciality Products,Female,Caucasian,27,21-10-2021,67837
+854,David Chu,Controls Engineer,Engineering,Corporate,Male,Asian,55,03-09-1998,67837
+855,Carter Reed,Development Engineer,Engineering,Manufacturing,Male,Black,40,07-07-2005,67837
+856,Jade Acosta,Development Engineer,Engineering,Research & Development,Female,Latino,47,29-08-2015,67837
+857,Kai Flores,Development Engineer,Engineering,Manufacturing,Male,Latino,35,23-05-2017,67837
+858,Angel Delgado,Director,Finance,Corporate,Male,Latino,31,10-08-2017,67837
+859,Aria Xi,Director,Sales,Research & Development,Female,Asian,45,01-03-2002,67837
+860,Axel Johnson,Director,Human Resources,Corporate,Male,Caucasian,60,14-04-2015,67837
+861,Dylan Thao,Director,Engineering,Manufacturing,Male,Asian,53,22-10-2012,67837
+862,Eva Coleman,Director,IT,Research & Development,Female,Black,37,20-09-2009,67837
+863,Ezekiel Desai,Director,Finance,Research & Development,Male,Asian,42,15-01-2003,67837
+864,Genesis Zhu,Director,Finance,Speciality Products,Female,Asian,34,20-07-2020,67837
+865,Grayson Walker,Director,Accounting,Manufacturing,Male,Caucasian,29,19-02-2017,67837
+866,Jade Li,Director,IT,Speciality Products,Female,Asian,47,26-10-2012,67837
+867,Jameson Allen,Director,Marketing,Speciality Products,Male,Caucasian,32,28-11-2016,67837
+868,Leilani Thao,Director,Human Resources,Speciality Products,Female,Asian,38,30-05-2007,67837
+869,Lucy Alexander,Director,Engineering,Manufacturing,Female,Caucasian,45,29-10-2014,67837
+870,Penelope Griffin,Director,Sales,Manufacturing,Female,Caucasian,61,23-01-2021,67837
+871,Piper Sun,Director,Marketing,Manufacturing,Female,Asian,64,14-02-2011,67837
+872,Ruby Medina,Director,Sales,Manufacturing,Female,Latino,50,18-12-2018,67837
+873,Rylee Yu,Director,Accounting,Research & Development,Female,Asian,36,29-09-2015,67837
+874,Savannah Singh,Director,Marketing,Speciality Products,Female,Asian,53,20-06-1997,67837
+875,Christopher Howard,Enterprise Architect,IT,Speciality Products,Male,Caucasian,61,26-08-2019,67837
+876,Gabriel Holmes,Enterprise Architect,IT,Research & Development,Male,Caucasian,40,04-11-2010,67837
+877,Alexander Bryant,Field Engineer,Engineering,Speciality Products,Male,Caucasian,30,02-10-2021,67837
+878,Claire Jones,Field Engineer,Engineering,Corporate,Female,Caucasian,39,12-03-2019,67837
+879,Charles Robinson,HRIS Analyst,Human Resources,Speciality Products,Male,Caucasian,26,12-03-2021,67837
+880,Dylan Padilla,HRIS Analyst,Human Resources,Manufacturing,Male,Latino,31,09-12-2015,67837
+881,Everly Walker,HRIS Analyst,Human Resources,Speciality Products,Female,Caucasian,41,23-10-2009,67837
+882,Robert Edwards,HRIS Analyst,Human Resources,Corporate,Male,Caucasian,62,11-10-2004,67837
+883,Savannah Park,HRIS Analyst,Human Resources,Manufacturing,Female,Asian,44,28-01-2009,67837
+884,Eli Richardson,IT Coordinator,IT,Speciality Products,Male,Caucasian,38,19-04-2015,67837
+885,Julian Lee,IT Systems Architect,IT,Corporate,Male,Asian,51,17-01-2003,67837
+886,Oliver Moua,IT Systems Architect,IT,Corporate,Male,Asian,29,28-06-2021,67837
+887,Aria Roberts,Manager,Accounting,Corporate,Female,Caucasian,38,12-08-2015,67837
+888,Aurora Ali,Manager,Marketing,Research & Development,Female,Asian,30,24-04-2016,67837
+889,Connor Fong,Manager,Accounting,Speciality Products,Male,Asian,40,16-02-2018,67837
+890,Cooper Mitchell,Manager,Sales,Speciality Products,Male,Caucasian,43,31-01-2006,67837
+891,Samantha Aguilar,Manager,Accounting,Speciality Products,Female,Latino,46,24-04-2010,67837
+892,Santiago f Gonzalez,Manager,Sales,Research & Development,Male,Latino,36,26-07-2012,67837
+893,Dylan Wilson,Network Administrator,IT,Research & Development,Male,Caucasian,48,27-09-2006,67837
+894,Luna Taylor,Network Administrator,IT,Manufacturing,Female,Caucasian,47,28-07-2018,67837
+895,Addison Roberts,Network Architect,IT,Manufacturing,Female,Caucasian,65,14-05-2018,67837
+896,Grayson James,Operations Engineer,Engineering,Speciality Products,Male,Caucasian,54,05-12-2010,67837
+897,Melody Grant,Quality Engineer,Engineering,Corporate,Female,Caucasian,41,07-10-2005,67837
+898,Evelyn Liang,Service Desk Analyst,IT,Speciality Products,Female,Asian,40,26-06-2013,67837
+899,Chloe Allen,Solutions Architect,IT,Manufacturing,Female,Caucasian,64,08-07-2004,67837
+900,Emma Perry,Solutions Architect,IT,Manufacturing,Female,Caucasian,28,22-01-2018,67837
+901,Layla Salazar,Solutions Architect,IT,Corporate,Female,Latino,59,19-03-2014,67837
+902,Amelia Bell,Sr. Analyst,Sales,Manufacturing,Female,Caucasian,53,05-08-2017,67837
+903,Connor Grant,Sr. Analyst,Accounting,Speciality Products,Male,Caucasian,27,13-10-2021,67837
+904,Cora Rivera,Sr. Analyst,Marketing,Corporate,Female,Latino,42,02-01-2021,67837
+905,Matthew Lim,Sr. Analyst,Sales,Research & Development,Male,Asian,52,18-02-1994,67837
+906,Sadie Patterson,Sr. Analyst,Accounting,Speciality Products,Female,Caucasian,38,24-07-2020,67837
+907,Wesley Gray,Sr. Analyst,Accounting,Speciality Products,Male,Caucasian,62,22-04-2003,67837
+908,Liam Sanders,Sr. Business Partner,Human Resources,Corporate,Male,Caucasian,46,20-02-2007,67837
+909,Matthew Chau,Sr. Business Partner,Human Resources,Research & Development,Male,Asian,53,16-11-2002,67837
+910,Skylar Doan,Sr. Business Partner,Human Resources,Research & Development,Female,Asian,58,21-08-1994,67837
+911,Andrew Do,Sr. Manger,Finance,Research & Development,Male,Asian,43,17-04-2021,67837
+912,Bella Butler,Sr. Manger,Finance,Manufacturing,Female,Black,33,25-10-2019,67837
+913,Camila Silva,Sr. Manger,Marketing,Speciality Products,Female,Latino,64,01-12-2003,67837
+914,Chloe Salazar,Sr. Manger,Human Resources,Speciality Products,Female,Latino,45,22-05-2011,67837
+915,Elijah Watson,Sr. Manger,Sales,Manufacturing,Male,Caucasian,29,16-03-2017,67837
+916,Emily Davis,Sr. Manger,IT,Research & Development,Female,Black,55,08-04-2016,67837
+917,Jordan Zhu,Sr. Manger,Marketing,Manufacturing,Male,Asian,32,29-01-2017,67837
+918,Nathan Pham,Sr. Manger,Accounting,Manufacturing,Male,Asian,45,12-12-2006,67837
+919,Nora Le,Sr. Manger,IT,Manufacturing,Female,Asian,53,12-04-1997,67837
+920,Sophia Ahmed,Sr. Manger,Sales,Speciality Products,Female,Asian,30,13-06-2015,67837
+921,Athena Jordan,System Administrator ,IT,Manufacturing,Female,Black,42,19-02-2011,67837
+922,Charlotte Vo,System Administrator ,IT,Speciality Products,Female,Asian,57,10-01-2014,67837
+923,Jonathan Chavez,System Administrator ,IT,Manufacturing,Male,Latino,29,11-05-2017,67837
+924,Jose Brown,System Administrator ,IT,Speciality Products,Male,Caucasian,43,07-04-2016,67837
+925,Wesley Adams,System Administrator ,IT,Corporate,Male,Caucasian,48,11-08-2003,67837
+926,Leo Owens,Systems Analyst,IT,Corporate,Male,Caucasian,47,23-04-2020,67837
+927,Maverick Mehta,Systems Analyst,IT,Manufacturing,Male,Asian,40,30-07-2007,67837
+928,Leilani Baker,Technical Architect,IT,Speciality Products,Female,Caucasian,59,04-04-2010,67837
+929,Madison Her,Technical Architect,IT,Speciality Products,Female,Asian,56,22-06-1996,67837
+930,Adam Espinoza,Test Engineer,Engineering,Manufacturing,Male,Latino,36,09-04-2009,67837
+931,Alice Lopez,Test Engineer,Engineering,Speciality Products,Female,Latino,48,27-06-2009,67837
+932,Dominic Parker,Test Engineer,Engineering,Research & Development,Male,Caucasian,62,04-10-2011,67837
+933,Samantha Adams,Test Engineer,Engineering,Research & Development,Female,Caucasian,45,22-04-2013,67837
+934,Adeline Thao,Vice President,Finance,Corporate,Female,Asian,54,05-09-2007,67837
+935,Alice Thompson,Vice President,Accounting,Speciality Products,Female,Caucasian,48,25-04-2007,67837
+936,Angel Stewart,Vice President,Finance,Corporate,Male,Caucasian,28,22-06-2019,67837
+937,Cameron Young,Vice President,Engineering,Manufacturing,Male,Caucasian,63,18-01-2016,67837
+938,Christian Sanders,Vice President,Human Resources,Speciality Products,Male,Black,45,07-08-2013,67837
+939,Elijah Kang,Vice President,Engineering,Manufacturing,Male,Asian,35,10-10-2011,67837
+940,Eloise Alexander,Vice President,Human Resources,Corporate,Female,Black,28,21-01-2018,67837
+941,Emery Mitchell,Vice President,Finance,Manufacturing,Female,Caucasian,48,02-06-2018,67837
+942,Hunter Nunez,Vice President,Human Resources,Corporate,Male,Latino,62,16-08-2002,67837
+943,Isabella Xi,Vice President,Marketing,Research & Development,Female,Asian,41,13-03-2013,67837
+944,John Moore,Vice President,IT,Speciality Products,Male,Caucasian,52,08-11-2005,67837
+945,Penelope Guerrero,Vice President,IT,Speciality Products,Female,Latino,43,04-08-2009,67837
+946,Samuel Bailey,Vice President,Accounting,Speciality Products,Male,Caucasian,41,17-08-2013,67837
+947,Wyatt Chin,Vice President,Engineering,Speciality Products,Male,Asian,43,07-06-2004,67837
+948,Xavier Davis,Vice President,Finance,Corporate,Male,Caucasian,36,17-01-2009,67837
+949,Jonathan Khan,Account Representative,Sales,Manufacturing,Male,Asian,35,30-08-2013,67837
+950,William Vu,Account Representative,Sales,Speciality Products,Male,Asian,37,14-11-2013,67837
+951,Harper Phan,Analyst II,Finance,Manufacturing,Female,Asian,45,07-12-2016,67837
+952,Ruby Sun,Cloud Infrastructure Architect,IT,Manufacturing,Female,Asian,50,06-09-2021,67837
+953,Jacob Khan,Computer Systems Manager,IT,Speciality Products,Male,Asian,53,09-02-2008,67837
+954,Nolan Bui,Computer Systems Manager,IT,Research & Development,Male,Asian,28,26-05-2020,67837
+955,Emery Doan,Controls Engineer,Engineering,Corporate,Female,Asian,25,23-06-2021,67837
+956,Ivy Desai,Controls Engineer,Engineering,Research & Development,Female,Asian,59,09-04-2001,67837
+957,Ivy Tang,Development Engineer,Engineering,Speciality Products,Female,Asian,48,03-05-2012,67837
+958,Christopher Lim,Director,IT,Research & Development,Male,Asian,55,13-03-2007,67837
+959,Grace Sun,Director,Finance,Research & Development,Female,Asian,25,17-04-2021,67837
+960,Hailey Shin,Director,Human Resources,Corporate,Female,Asian,57,24-10-2016,67837
+961,John Trinh,Director,Marketing,Corporate,Male,Asian,49,26-06-2014,67837
+962,Jose Kang,Engineering Manager,Engineering,Corporate,Male,Asian,57,25-04-1999,67837
+963,Julia Pham,Engineering Manager,Engineering,Speciality Products,Female,Asian,65,16-03-2006,67837
+964,Clara Huynh,IT Coordinator,IT,Speciality Products,Female,Asian,39,18-11-2020,67837
+965,Jeremiah Chu,IT Systems Architect,IT,Research & Development,Male,Asian,31,12-09-2020,67837
+966,Dominic Hu,Manager,Accounting,Speciality Products,Male,Asian,34,13-02-2012,67837
+967,Elias Ali,Manager,Sales,Corporate,Male,Asian,28,19-03-2021,67837
+968,Eloise Pham,Manager,Sales,Speciality Products,Female,Asian,45,20-10-2011,67837
+969,Hailey Dang,Manager,Marketing,Manufacturing,Female,Asian,64,21-09-2019,67837
+970,Jonathan Patel,Manager,Marketing,Corporate,Male,Asian,28,02-02-2020,67837
+971,Julia Mai,Manager,Marketing,Manufacturing,Female,Asian,50,11-03-2012,67837
+972,Nathan Sun,Manager,Accounting,Speciality Products,Male,Asian,63,29-07-2015,67837
+973,Theodore Xi,Manager,Finance,Corporate,Male,Asian,52,05-10-2009,67837
+974,Wesley Doan,Manager,Finance,Corporate,Male,Asian,63,19-04-2004,67837
+975,Wesley Sharma,Manager,IT,Corporate,Male,Asian,51,23-02-1994,67837
+976,Angel Chang,Network Architect,IT,Research & Development,Male,Asian,37,06-07-2017,67837
+977,Jeremiah Lu,Network Architect,IT,Manufacturing,Male,Asian,50,06-03-2001,67837
+978,Joshua Yang,Network Engineer,IT,Manufacturing,Male,Asian,34,10-11-2018,67837
+979,Grayson Luu,Quality Engineer,Engineering,Research & Development,Male,Asian,55,30-04-2011,67837
+980,Harper Chin,Quality Engineer,Engineering,Manufacturing,Female,Asian,50,09-07-2002,67837
+981,Gabriella Gupta,Sr. Account Representative,Sales,Corporate,Female,Asian,41,15-02-2005,67837
+982,Vivian Chu,Sr. Account Representative,Sales,Research & Development,Female,Asian,46,17-01-2021,67837
+983,John Jung,Sr. Analyst,Sales,Speciality Products,Male,Asian,63,12-03-2018,67837
+984,Thomas Jung,Sr. Analyst,Accounting,Research & Development,Male,Asian,50,23-10-2009,67837
+985,Charlotte Wu,Sr. Business Partner,Human Resources,Manufacturing,Female,Asian,63,02-05-2007,67837
+986,Audrey Patel,Sr. Manger,Finance,Speciality Products,Female,Asian,37,24-04-2011,67837
+987,Camila Li,Sr. Manger,IT,Research & Development,Female,Asian,60,24-07-2010,67837
+988,Caroline Hu,Sr. Manger,Marketing,Speciality Products,Female,Asian,31,18-08-2019,67837
+989,Charles Luu,Sr. Manger,Sales,Manufacturing,Male,Asian,25,15-06-2021,67837
+990,Eleanor Chan,Sr. Manger,Accounting,Manufacturing,Female,Asian,49,02-04-2001,67837
+991,Everleigh Ng,Sr. Manger,Finance,Research & Development,Female,Asian,51,10-06-2021,67837
+992,Jaxon Tran,Sr. Manger,Sales,Manufacturing,Male,Asian,45,07-09-2007,67837
+993,Jaxson Dinh,Sr. Manger,Marketing,Research & Development,Male,Asian,45,03-05-2001,67837
+994,Luke Vu,Sr. Manger,Marketing,Speciality Products,Male,Asian,52,04-06-2018,67837
+995,Sofia Yoon,Sr. Manger,Human Resources,Research & Development,Female,Asian,37,17-01-2011,67837
+996,Angel Xiong,Vice President,IT,Research & Development,Male,Asian,35,11-06-2015,67837
+997,Ezekiel Fong,Vice President,Sales,Research & Development,Male,Asian,56,25-02-2004,67837
+998,Isla Lai,Vice President,Finance,Corporate,Female,Asian,37,06-12-2011,67837
+999,Jameson Chen,Vice President,Marketing,Research & Development,Male,Asian,39,05-12-2019,67837
+1000,Luna Liu,Vice President,Sales,Manufacturing,Female,Asian,36,22-02-2014,67837
